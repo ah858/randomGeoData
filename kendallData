@@ -1,0 +1,8297 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2019-06-19T13:31:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/8614583",
+        "attribution": "Office of Geographic and Environmental Information (MassGIS)",
+        "condition": "fair",
+        "hgv": "no",
+        "highway": "primary",
+        "lanes": "2",
+        "massgis:ref": "0 N337",
+        "massgis:way_id": "147092",
+        "name": "Land Boulevard",
+        "official_name": "Edwin H. Land Boulevard",
+        "old_ref": "SR 3",
+        "oneway": "yes",
+        "source": "massgis_import_v0.1_20071008165629",
+        "surface": "asphalt",
+        "width": "18.9"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.0783171,
+            42.3626333
+          ],
+          [
+            -71.0783083,
+            42.3626882
+          ],
+          [
+            -71.0783024,
+            42.3627459
+          ],
+          [
+            -71.0783018,
+            42.362799
+          ],
+          [
+            -71.0783045,
+            42.362845
+          ],
+          [
+            -71.0783173,
+            42.3629329
+          ],
+          [
+            -71.0783356,
+            42.3630497
+          ]
+        ]
+      },
+      "id": "way/8614583"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/8614708",
+        "alt_name": "5th Street",
+        "attribution": "Office of Geographic and Environmental Information (MassGIS)",
+        "condition": "fair",
+        "highway": "residential",
+        "lanes": "2",
+        "massgis:way_id": "192238",
+        "maxspeed": "25 mph",
+        "name": "Fifth Street",
+        "source": "massgis_import_v0.1_20071008165629",
+        "surface": "asphalt",
+        "width": "14.6"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.083127,
+            42.371438
+          ],
+          [
+            -71.08331,
+            42.370738
+          ],
+          [
+            -71.0834649,
+            42.370064
+          ],
+          [
+            -71.083565,
+            42.369638
+          ],
+          [
+            -71.0836248,
+            42.3693819
+          ],
+          [
+            -71.083781,
+            42.368702
+          ],
+          [
+            -71.083939,
+            42.368022
+          ]
+        ]
+      },
+      "id": "way/8614708"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/8614796",
+        "attribution": "Office of Geographic and Environmental Information (MassGIS)",
+        "condition": "good",
+        "highway": "tertiary",
+        "lanes": "2",
+        "massgis:way_id": "133729",
+        "name": "Charles Street",
+        "source": "massgis_import_v0.1_20071008165629",
+        "surface": "asphalt",
+        "width": "15.2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.087711,
+            42.368497
+          ],
+          [
+            -71.0876468,
+            42.3684895
+          ],
+          [
+            -71.0861031,
+            42.3683071
+          ],
+          [
+            -71.0858297,
+            42.3682756
+          ],
+          [
+            -71.0855851,
+            42.3682483
+          ],
+          [
+            -71.083939,
+            42.368022
+          ],
+          [
+            -71.0822834,
+            42.3678172
+          ],
+          [
+            -71.0811024,
+            42.3676763
+          ],
+          [
+            -71.0800208,
+            42.3675283
+          ],
+          [
+            -71.0793781,
+            42.3674403
+          ]
+        ]
+      },
+      "id": "way/8614796"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/8614804",
+        "attribution": "Office of Geographic and Environmental Information (MassGIS)",
+        "condition": "fair",
+        "highway": "residential",
+        "lanes": "2",
+        "lit": "yes",
+        "massgis:way_id": "192911",
+        "maxspeed": "25 mph",
+        "name": "Bent Street",
+        "source": "massgis_import_v0.1_20071008165629",
+        "surface": "asphalt",
+        "width": "13.7"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.085727,
+            42.367583
+          ],
+          [
+            -71.0858273,
+            42.367593
+          ],
+          [
+            -71.0859753,
+            42.3676078
+          ],
+          [
+            -71.086248,
+            42.367635
+          ],
+          [
+            -71.087334,
+            42.367762
+          ],
+          [
+            -71.0878019,
+            42.3678204
+          ],
+          [
+            -71.087847,
+            42.367826
+          ]
+        ]
+      },
+      "id": "way/8614804"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/8614821",
+        "attribution": "Office of Geographic and Environmental Information (MassGIS)",
+        "highway": "tertiary",
+        "massgis:way_id": "214395",
+        "name": "Cambridgeside Place",
+        "source": "massgis_import_v0.1_20071008165629",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.0777224,
+            42.3672248
+          ],
+          [
+            -71.0764049,
+            42.3670669
+          ],
+          [
+            -71.0755598,
+            42.3669627
+          ]
+        ]
+      },
+      "id": "way/8614821"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/8614841",
+        "attribution": "Office of Geographic and Environmental Information (MassGIS)",
+        "condition": "fair",
+        "highway": "residential",
+        "lanes": "1",
+        "massgis:way_id": "122658",
+        "maxspeed": "25 mph",
+        "name": "Munroe Street",
+        "oneway": "yes",
+        "source": "massgis_import_v0.1_20071008165629",
+        "surface": "asphalt",
+        "width": "12.2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.0845714,
+            42.3653212
+          ],
+          [
+            -71.084273,
+            42.3652858
+          ],
+          [
+            -71.0827668,
+            42.3650925
+          ]
+        ]
+      },
+      "id": "way/8614841"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/8614848",
+        "attribution": "Office of Geographic and Environmental Information (MassGIS)",
+        "bicycle": "yes",
+        "condition": "fair",
+        "cycleway": "lane",
+        "highway": "secondary",
+        "lanes": "1",
+        "massgis:ref": "0 N324",
+        "massgis:way_id": "206060",
+        "maxspeed": "25 mph",
+        "maxspeed:type": "sign",
+        "name": "Broadway",
+        "note": "Changed road configuration due to Longfellow construction.",
+        "oneway": "yes",
+        "sidewalk": "right",
+        "source": "massgis_import_v0.1_20071008165629",
+        "surface": "asphalt",
+        "width": "24.4"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.0896646,
+            42.3649006
+          ],
+          [
+            -71.089583,
+            42.3648581
+          ],
+          [
+            -71.0894745,
+            42.3648023
+          ],
+          [
+            -71.0893532,
+            42.3647385
+          ],
+          [
+            -71.0892015,
+            42.3646628
+          ],
+          [
+            -71.0886105,
+            42.3644342
+          ],
+          [
+            -71.0884584,
+            42.3643696
+          ],
+          [
+            -71.087608,
+            42.3640086
+          ],
+          [
+            -71.0873963,
+            42.3639282
+          ]
+        ]
+      },
+      "id": "way/8614848"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/8614849",
+        "attribution": "Office of Geographic and Environmental Information (MassGIS)",
+        "condition": "fair",
+        "hgv": "no",
+        "highway": "primary",
+        "lanes": "2",
+        "massgis:way_id": "147092",
+        "name": "Land Boulevard",
+        "official_name": "Edwin H. Land Boulevard",
+        "oneway": "yes",
+        "source": "massgis_import_v0.1_20071008165629",
+        "surface": "asphalt",
+        "width": "18.9"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.0788743,
+            42.3623251
+          ],
+          [
+            -71.078881,
+            42.3622743
+          ],
+          [
+            -71.0788836,
+            42.3622194
+          ],
+          [
+            -71.0788819,
+            42.3621576
+          ],
+          [
+            -71.0788811,
+            42.3620815
+          ]
+        ]
+      },
+      "id": "way/8614849"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/8614896",
+        "attribution": "Office of Geographic and Environmental Information (MassGIS)",
+        "condition": "deficient",
+        "cycleway:both": "no",
+        "highway": "residential",
+        "lanes": "2",
+        "massgis:way_id": "192238",
+        "maxspeed": "25 mph",
+        "name": "Fifth Street",
+        "source": "massgis_import_v0.1_20071008165629",
+        "surface": "block",
+        "width": "14.6"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.0844274,
+            42.3659976
+          ],
+          [
+            -71.084267,
+            42.366681
+          ],
+          [
+            -71.0842068,
+            42.3669219
+          ],
+          [
+            -71.084096,
+            42.367365
+          ],
+          [
+            -71.084008,
+            42.36775
+          ],
+          [
+            -71.083939,
+            42.368022
+          ]
+        ]
+      },
+      "id": "way/8614896"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/8614918",
+        "attribution": "Office of Geographic and Environmental Information (MassGIS)",
+        "condition": "good",
+        "cycleway:both": "no",
+        "highway": "tertiary",
+        "lanes": "3",
+        "lanes:forward": "1",
+        "massgis:way_id": "145333",
+        "maxspeed": "25 mph",
+        "maxspeed:type": "sign",
+        "name": "Cardinal Medeiros Avenue",
+        "source": "massgis_import_v0.1_20071008165629",
+        "surface": "asphalt",
+        "turn:lanes:backward": "left|none",
+        "width": "14.9"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.0917717,
+            42.3662868
+          ],
+          [
+            -71.0917072,
+            42.3663952
+          ],
+          [
+            -71.0915377,
+            42.3667036
+          ]
+        ]
+      },
+      "id": "way/8614918"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/8614998",
+        "attribution": "Office of Geographic and Environmental Information (MassGIS)",
+        "condition": "fair",
+        "highway": "residential",
+        "lanes": "2",
+        "massgis:way_id": "193474",
+        "maxspeed": "25 mph",
+        "name": "Hurley Street",
+        "source": "massgis_import_v0.1_20071008165629",
+        "surface": "asphalt",
+        "width": "15.2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.0775599,
+            42.3679188
+          ],
+          [
+            -71.07924,
+            42.368116
+          ],
+          [
+            -71.0798631,
+            42.3682077
+          ],
+          [
+            -71.0805599,
+            42.3682948
+          ],
+          [
+            -71.082123,
+            42.368501
+          ],
+          [
+            -71.083781,
+            42.368702
+          ],
+          [
+            -71.0854265,
+            42.3689238
+          ]
+        ]
+      },
+      "id": "way/8614998"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/8614999",
+        "attribution": "Office of Geographic and Environmental Information (MassGIS)",
+        "condition": "fair",
+        "cycleway": "lane",
+        "highway": "tertiary",
+        "lanes": "2",
+        "massgis:ref": "0 N324",
+        "massgis:way_id": "166947",
+        "maxspeed": "25 mph",
+        "name": "Hampshire Street",
+        "source": "massgis_import_v0.1_20071008165629",
+        "surface": "asphalt",
+        "width": "20.7"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.0911516,
+            42.3657763
+          ],
+          [
+            -71.0917096,
+            42.3662357
+          ],
+          [
+            -71.0917717,
+            42.3662868
+          ],
+          [
+            -71.0918699,
+            42.3663675
+          ],
+          [
+            -71.0923686,
+            42.3667769
+          ],
+          [
+            -71.0932339,
+            42.367489
+          ],
+          [
+            -71.0937662,
+            42.3679246
+          ],
+          [
+            -71.0938018,
+            42.3679538
+          ],
+          [
+            -71.0943766,
+            42.3684257
+          ],
+          [
+            -71.0947046,
+            42.3686948
+          ],
+          [
+            -71.094789,
+            42.368764
+          ]
+        ]
+      },
+      "id": "way/8614999"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/8615015",
+        "attribution": "Office of Geographic and Environmental Information (MassGIS)",
+        "condition": "fair",
+        "highway": "residential",
+        "lanes": "1",
+        "massgis:way_id": "192911",
+        "maxspeed": "25 mph",
+        "name": "Bent Street",
+        "oneway": "yes",
+        "source": "massgis_import_v0.1_20071008165629",
+        "surface": "asphalt",
+        "width": "14.3"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.0816315,
+            42.3670307
+          ],
+          [
+            -71.084096,
+            42.367365
+          ],
+          [
+            -71.085316,
+            42.367531
+          ],
+          [
+            -71.085727,
+            42.367583
+          ]
+        ]
+      },
+      "id": "way/8615015"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/8615075",
+        "attribution": "Office of Geographic and Environmental Information (MassGIS)",
+        "condition": "fair",
+        "highway": "residential",
+        "lanes": "2",
+        "massgis:way_id": "152600",
+        "maxspeed": "25 mph",
+        "motor_vehicle": "yes",
+        "name": "Wadsworth Street",
+        "oneway": "no",
+        "source": "massgis_import_v0.1_20071008165629",
+        "surface": "asphalt",
+        "width": "14.6"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.0838908,
+            42.3603265
+          ],
+          [
+            -71.0839416,
+            42.3604102
+          ],
+          [
+            -71.0841677,
+            42.3607829
+          ],
+          [
+            -71.0843015,
+            42.3609785
+          ],
+          [
+            -71.0843973,
+            42.3610933
+          ]
+        ]
+      },
+      "id": "way/8615075"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/8615080",
+        "attribution": "Office of Geographic and Environmental Information (MassGIS)",
+        "condition": "fair",
+        "highway": "tertiary",
+        "lanes": "2",
+        "massgis:way_id": "110450",
+        "name": "Fulkerson Street",
+        "source": "massgis_import_v0.1_20071008165629",
+        "surface": "asphalt",
+        "width": "15.2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.0882196,
+            42.3665976
+          ],
+          [
+            -71.0881908,
+            42.366623
+          ],
+          [
+            -71.0881667,
+            42.3666468
+          ],
+          [
+            -71.0881485,
+            42.3666864
+          ],
+          [
+            -71.0880348,
+            42.3671342
+          ],
+          [
+            -71.087871,
+            42.367764
+          ],
+          [
+            -71.087847,
+            42.367826
+          ],
+          [
+            -71.087711,
+            42.368497
+          ]
+        ]
+      },
+      "id": "way/8615080"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/8615161",
+        "attribution": "Office of Geographic and Environmental Information (MassGIS)",
+        "condition": "intolerable",
+        "highway": "residential",
+        "lanes": "2",
+        "massgis:way_id": "182948",
+        "maxspeed": "25 mph",
+        "name": "Potter Street",
+        "source": "massgis_import_v0.1_20071008165629",
+        "surface": "asphalt",
+        "width": "13.4"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.0847663,
+            42.3643983
+          ],
+          [
+            -71.0843574,
+            42.3642191
+          ],
+          [
+            -71.0842952,
+            42.3641918
+          ],
+          [
+            -71.083472,
+            42.363851
+          ]
+        ]
+      },
+      "id": "way/8615161"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/8615283",
+        "alt_name": "2nd Street",
+        "attribution": "Office of Geographic and Environmental Information (MassGIS)",
+        "condition": "fair",
+        "cycleway:both": "no",
+        "highway": "residential",
+        "lanes": "2",
+        "lit": "yes",
+        "massgis:way_id": "198296",
+        "maxspeed": "25 mph",
+        "maxspeed:type": "sign",
+        "name": "Second Street",
+        "source": "massgis_import_v0.1_20071008165629",
+        "surface": "asphalt",
+        "width": "16.8; 15.2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.080166,
+            42.3640728
+          ],
+          [
+            -71.0800048,
+            42.364745
+          ],
+          [
+            -71.0798771,
+            42.3653096
+          ],
+          [
+            -71.0798549,
+            42.3654077
+          ],
+          [
+            -71.079712,
+            42.366093
+          ],
+          [
+            -71.0795412,
+            42.3667681
+          ],
+          [
+            -71.0793781,
+            42.3674403
+          ]
+        ]
+      },
+      "id": "way/8615283"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/8615286",
+        "attribution": "Office of Geographic and Environmental Information (MassGIS)",
+        "condition": "fair",
+        "highway": "residential",
+        "lanes": "2",
+        "massgis:way_id": "188394",
+        "maxspeed": "25 mph",
+        "name": "Vandine Street",
+        "source": "massgis_import_v0.1_20071008165629",
+        "surface": "asphalt",
+        "width": "7.9"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.0915338,
+            42.3691635
+          ],
+          [
+            -71.090339,
+            42.368798
+          ]
+        ]
+      },
+      "id": "way/8615286"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/8615295",
+        "alt_name": "3rd Street",
+        "attribution": "Office of Geographic and Environmental Information (MassGIS)",
+        "condition": "fair",
+        "cycleway:both": "shared_lane",
+        "highway": "tertiary",
+        "lanes": "2",
+        "massgis:way_id": "182982",
+        "maxspeed": "25 mph",
+        "name": "Third Street",
+        "source": "massgis_import_v0.1_20071008165629",
+        "surface": "asphalt",
+        "width": "14.6"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.0819996,
+            42.3663837
+          ],
+          [
+            -71.0818527,
+            42.3666419
+          ],
+          [
+            -71.0816488,
+            42.3670003
+          ],
+          [
+            -71.0816315,
+            42.3670307
+          ],
+          [
+            -71.081537,
+            42.3671881
+          ],
+          [
+            -71.0815147,
+            42.367225
+          ],
+          [
+            -71.081448,
+            42.3673225
+          ],
+          [
+            -71.0813754,
+            42.3674128
+          ],
+          [
+            -71.0812772,
+            42.3675158
+          ],
+          [
+            -71.0812098,
+            42.3675835
+          ],
+          [
+            -71.0811024,
+            42.3676763
+          ],
+          [
+            -71.0810261,
+            42.3677373
+          ],
+          [
+            -71.080756,
+            42.3680221
+          ],
+          [
+            -71.0805599,
+            42.3682948
+          ],
+          [
+            -71.0805332,
+            42.3683335
+          ],
+          [
+            -71.0805114,
+            42.3683804
+          ],
+          [
+            -71.080298,
+            42.3689544
+          ],
+          [
+            -71.0801504,
+            42.3696343
+          ],
+          [
+            -71.0800026,
+            42.370315
+          ],
+          [
+            -71.0798505,
+            42.3710152
+          ]
+        ]
+      },
+      "id": "way/8615295"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/8615300",
+        "attribution": "Office of Geographic and Environmental Information (MassGIS)",
+        "condition": "fair",
+        "highway": "tertiary",
+        "lanes": "2",
+        "massgis:way_id": "107849",
+        "name": "Sixth Street",
+        "source": "massgis_import_v0.1_20071008165629",
+        "surface": "asphalt",
+        "width": "15.9"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.0860501,
+            42.3662063
+          ],
+          [
+            -71.0858928,
+            42.3669076
+          ],
+          [
+            -71.0858511,
+            42.3670776
+          ],
+          [
+            -71.085727,
+            42.367583
+          ],
+          [
+            -71.0857201,
+            42.3676242
+          ],
+          [
+            -71.085698,
+            42.367756
+          ],
+          [
+            -71.085659,
+            42.367946
+          ],
+          [
+            -71.0856062,
+            42.368162
+          ],
+          [
+            -71.0855851,
+            42.3682483
+          ]
+        ]
+      },
+      "id": "way/8615300"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/8615335",
+        "attribution": "Office of Geographic and Environmental Information (MassGIS)",
+        "condition": "fair",
+        "highway": "residential",
+        "lanes": "1",
+        "massgis:way_id": "127990",
+        "maxspeed": "25 mph",
+        "name": "Berkshire Place",
+        "oneway": "yes",
+        "source": "massgis_import_v0.1_20071008165629",
+        "surface": "asphalt",
+        "width": "4.3"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.092134,
+            42.368116
+          ],
+          [
+            -71.091939,
+            42.368457
+          ],
+          [
+            -71.091772,
+            42.36875
+          ]
+        ]
+      },
+      "id": "way/8615335"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/8615344",
+        "attribution": "Office of Geographic and Environmental Information (MassGIS)",
+        "condition": "fair",
+        "highway": "residential",
+        "lanes": "1",
+        "massgis:way_id": "127990",
+        "maxspeed": "25 mph",
+        "name": "Berkshire Place",
+        "source": "massgis_import_v0.1_20071008165629",
+        "surface": "asphalt",
+        "width": "4.3"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.091939,
+            42.368457
+          ],
+          [
+            -71.091642,
+            42.368334
+          ],
+          [
+            -71.0907622,
+            42.3680388
+          ]
+        ]
+      },
+      "id": "way/8615344"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/8615381",
+        "attribution": "Office of Geographic and Environmental Information (MassGIS)",
+        "bicycle": "yes",
+        "condition": "deficient",
+        "foot": "yes",
+        "highway": "residential",
+        "lanes": "2",
+        "massgis:way_id": "182472",
+        "maxspeed": "25 mph",
+        "motor_vehicle": "yes",
+        "name": "Amherst Street",
+        "oneway": "no",
+        "source": "massgis_import_v0.1_20071008165629",
+        "surface": "asphalt",
+        "width": "18.3"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.0876411,
+            42.3600151
+          ],
+          [
+            -71.0867179,
+            42.3603239
+          ],
+          [
+            -71.0863957,
+            42.3604316
+          ],
+          [
+            -71.0861783,
+            42.3605043
+          ],
+          [
+            -71.0853815,
+            42.3607707
+          ],
+          [
+            -71.0853093,
+            42.3607949
+          ],
+          [
+            -71.0852072,
+            42.360829
+          ],
+          [
+            -71.0848536,
+            42.3609473
+          ],
+          [
+            -71.0847307,
+            42.3609884
+          ]
+        ]
+      },
+      "id": "way/8615381"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/8615406",
+        "attribution": "Office of Geographic and Environmental Information (MassGIS)",
+        "condition": "deficient",
+        "highway": "residential",
+        "lanes": "1",
+        "massgis:way_id": "187890",
+        "maxspeed": "25 mph",
+        "name": "Lilac Court",
+        "source": "massgis_import_v0.1_20071008165629",
+        "surface": "unpaved",
+        "width": "3.7"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.0925471,
+            42.3673201
+          ],
+          [
+            -71.091978,
+            42.367436
+          ],
+          [
+            -71.091719,
+            42.367419
+          ],
+          [
+            -71.0912184,
+            42.3672459
+          ]
+        ]
+      },
+      "id": "way/8615406"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/8615409",
+        "attribution": "Office of Geographic and Environmental Information (MassGIS)",
+        "condition": "fair",
+        "cycleway": "lane",
+        "highway": "secondary",
+        "lanes": "2",
+        "massgis:way_id": "182982",
+        "maxspeed": "25 mph",
+        "name": "Third Street",
+        "source": "massgis_import_v0.1_20071008165629",
+        "surface": "asphalt",
+        "width": "18.6"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.0838463,
+            42.3632839
+          ],
+          [
+            -71.0837886,
+            42.3633639
+          ],
+          [
+            -71.0837329,
+            42.3634424
+          ],
+          [
+            -71.0836711,
+            42.3635345
+          ],
+          [
+            -71.0836144,
+            42.3636217
+          ],
+          [
+            -71.083472,
+            42.363851
+          ],
+          [
+            -71.0834159,
+            42.3639496
+          ],
+          [
+            -71.0831239,
+            42.3644637
+          ],
+          [
+            -71.0827668,
+            42.3650925
+          ],
+          [
+            -71.0827235,
+            42.3651668
+          ]
+        ]
+      },
+      "id": "way/8615409"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/8615421",
+        "attribution": "Office of Geographic and Environmental Information (MassGIS)",
+        "condition": "good",
+        "highway": "residential",
+        "lanes": "1",
+        "massgis:way_id": "175769",
+        "maxspeed": "25 mph",
+        "name": "Rogers Street",
+        "oneway": "yes",
+        "source": "massgis_import_v0.1_20071008165629",
+        "width": "15.2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.079712,
+            42.366093
+          ],
+          [
+            -71.0819996,
+            42.3663837
+          ]
+        ]
+      },
+      "id": "way/8615421"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/8615440",
+        "attribution": "Office of Geographic and Environmental Information (MassGIS)",
+        "condition": "fair",
+        "cycleway:both": "no",
+        "highway": "residential",
+        "lanes": "2",
+        "lit": "yes",
+        "massgis:way_id": "148743",
+        "maxspeed": "25 mph",
+        "maxspeed:type": "sign",
+        "name": "Lopez Avenue",
+        "source": "massgis_import_v0.1_20071008165629",
+        "surface": "asphalt",
+        "width": "12.2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.0799584,
+            42.3677919
+          ],
+          [
+            -71.0798631,
+            42.3682077
+          ],
+          [
+            -71.0797119,
+            42.3688772
+          ]
+        ]
+      },
+      "id": "way/8615440"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/8615457",
+        "attribution": "Office of Geographic and Environmental Information (MassGIS)",
+        "condition": "fair",
+        "highway": "residential",
+        "lanes": "1",
+        "massgis:way_id": "107272",
+        "maxspeed": "25 mph",
+        "name": "Plymouth Street",
+        "oneway": "yes",
+        "source": "massgis_import_v0.1_20071008165629",
+        "surface": "asphalt",
+        "width": "12.2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.0905783,
+            42.3683758
+          ],
+          [
+            -71.091772,
+            42.36875
+          ],
+          [
+            -71.09231,
+            42.368922
+          ],
+          [
+            -71.092825,
+            42.369124
+          ],
+          [
+            -71.0929886,
+            42.3691206
+          ],
+          [
+            -71.0930968,
+            42.3690999
+          ],
+          [
+            -71.0931981,
+            42.3690821
+          ],
+          [
+            -71.093669,
+            42.368999
+          ],
+          [
+            -71.094472,
+            42.368852
+          ],
+          [
+            -71.0946389,
+            42.3688253
+          ],
+          [
+            -71.094789,
+            42.368764
+          ]
+        ]
+      },
+      "id": "way/8615457"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/8615600",
+        "attribution": "Office of Geographic and Environmental Information (MassGIS)",
+        "condition": "good",
+        "highway": "residential",
+        "lanes": "1",
+        "lit": "no",
+        "massgis:way_id": "175226",
+        "maxspeed": "25 mph",
+        "name": "Emmett Place",
+        "source": "massgis_import_v0.1_20071008165629",
+        "surface": "asphalt",
+        "width": "3.0"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.085659,
+            42.367946
+          ],
+          [
+            -71.08494,
+            42.367856
+          ]
+        ]
+      },
+      "id": "way/8615600"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/8615635",
+        "attribution": "Office of Geographic and Environmental Information (MassGIS)",
+        "condition": "deficient",
+        "highway": "residential",
+        "lanes": "2",
+        "massgis:way_id": "110569",
+        "maxspeed": "25 mph",
+        "name": "Binney Street",
+        "source": "massgis_import_v0.1_20071008165629",
+        "surface": "asphalt",
+        "width": "14.9"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.0909338,
+            42.3677408
+          ],
+          [
+            -71.0908479,
+            42.3677139
+          ],
+          [
+            -71.09058,
+            42.36763
+          ],
+          [
+            -71.0901785,
+            42.3675062
+          ],
+          [
+            -71.090109,
+            42.3674899
+          ],
+          [
+            -71.0899724,
+            42.3674466
+          ],
+          [
+            -71.0899166,
+            42.3674235
+          ],
+          [
+            -71.0897528,
+            42.3673451
+          ],
+          [
+            -71.0892814,
+            42.3671244
+          ],
+          [
+            -71.0892187,
+            42.3670945
+          ]
+        ]
+      },
+      "id": "way/8615635"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/8615656",
+        "attribution": "Office of Geographic and Environmental Information (MassGIS)",
+        "condition": "deficient",
+        "highway": "residential",
+        "lit": "yes",
+        "massgis:way_id": "110569",
+        "maxspeed": "25 mph",
+        "name": "Binney Street",
+        "oneway": "no",
+        "source": "massgis_import_v0.1_20071008165629",
+        "surface": "asphalt",
+        "width": "14.9"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.08809,
+            42.3664371
+          ],
+          [
+            -71.088151,
+            42.3665097
+          ],
+          [
+            -71.0882196,
+            42.3665976
+          ]
+        ]
+      },
+      "id": "way/8615656"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/8615685",
+        "attribution": "Office of Geographic and Environmental Information (MassGIS)",
+        "condition": "fair",
+        "highway": "tertiary",
+        "lanes": "2",
+        "massgis:way_id": "187849",
+        "name": "First Street",
+        "oneway": "yes",
+        "source": "massgis_import_v0.1_20071008165629",
+        "surface": "asphalt",
+        "width": "14.3"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.0782211,
+            42.3650954
+          ],
+          [
+            -71.0783175,
+            42.3646751
+          ],
+          [
+            -71.0783341,
+            42.3646088
+          ],
+          [
+            -71.0783574,
+            42.3645378
+          ],
+          [
+            -71.0783803,
+            42.3644707
+          ],
+          [
+            -71.0784031,
+            42.3643917
+          ],
+          [
+            -71.0785477,
+            42.363859
+          ],
+          [
+            -71.0786191,
+            42.3635645
+          ],
+          [
+            -71.0786322,
+            42.3634942
+          ],
+          [
+            -71.0786428,
+            42.3634186
+          ],
+          [
+            -71.0786514,
+            42.3633419
+          ],
+          [
+            -71.0786621,
+            42.363234
+          ]
+        ]
+      },
+      "id": "way/8615685"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/8615700",
+        "attribution": "Office of Geographic and Environmental Information (MassGIS)",
+        "condition": "deficient",
+        "highway": "residential",
+        "lanes": "2",
+        "massgis:way_id": "124869",
+        "maxspeed": "25 mph",
+        "name": "Carleton Street",
+        "oneway": "no",
+        "source": "massgis_import_v0.1_20071008165629",
+        "surface": "asphalt",
+        "width": "15.2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.0863957,
+            42.3604316
+          ],
+          [
+            -71.0863796,
+            42.3605599
+          ],
+          [
+            -71.0862973,
+            42.3611993
+          ],
+          [
+            -71.0862483,
+            42.3615798
+          ],
+          [
+            -71.0862179,
+            42.3618236
+          ]
+        ]
+      },
+      "id": "way/8615700"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/8615712",
+        "attribution": "Office of Geographic and Environmental Information (MassGIS)",
+        "condition": "deficient",
+        "highway": "residential",
+        "lanes": "2",
+        "massgis:way_id": "168583",
+        "maxspeed": "25 mph",
+        "name": "Fifth Street",
+        "source": "massgis_import_v0.1_20071008165629",
+        "surface": "block",
+        "width": "14.6"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.0847663,
+            42.3643983
+          ],
+          [
+            -71.084682,
+            42.3647973
+          ],
+          [
+            -71.0845714,
+            42.3653212
+          ]
+        ]
+      },
+      "id": "way/8615712"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/8615769",
+        "attribution": "Office of Geographic and Environmental Information (MassGIS)",
+        "condition": "fair",
+        "highway": "residential",
+        "lanes": "1",
+        "massgis:way_id": "129064",
+        "maxspeed": "25 mph",
+        "name": "Bristol Street",
+        "oneway": "yes",
+        "source": "massgis_import_v0.1_20071008165629",
+        "surface": "asphalt",
+        "width": "12.2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.092866,
+            42.368312
+          ],
+          [
+            -71.0927659,
+            42.368308
+          ],
+          [
+            -71.092134,
+            42.368116
+          ],
+          [
+            -71.091408,
+            42.367871
+          ],
+          [
+            -71.0909338,
+            42.3677408
+          ]
+        ]
+      },
+      "id": "way/8615769"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/8615799",
+        "attribution": "Office of Geographic and Environmental Information (MassGIS)",
+        "condition": "fair",
+        "highway": "residential",
+        "lanes": "1",
+        "massgis:way_id": "124553",
+        "maxspeed": "25 mph",
+        "name": "Berkshire Street",
+        "oneway": "yes",
+        "source": "massgis_import_v0.1_20071008165629",
+        "surface": "asphalt",
+        "width": "12.8"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.091772,
+            42.36875
+          ],
+          [
+            -71.0915338,
+            42.3691635
+          ],
+          [
+            -71.0913951,
+            42.3694041
+          ],
+          [
+            -71.0910364,
+            42.3700267
+          ],
+          [
+            -71.090667,
+            42.3706678
+          ],
+          [
+            -71.090466,
+            42.3710167
+          ],
+          [
+            -71.0901378,
+            42.3715864
+          ],
+          [
+            -71.0899185,
+            42.371967
+          ],
+          [
+            -71.089733,
+            42.372289
+          ]
+        ]
+      },
+      "id": "way/8615799"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/8615828",
+        "attribution": "Office of Geographic and Environmental Information (MassGIS)",
+        "highway": "unclassified",
+        "massgis:way_id": "49",
+        "name": "Fifth Street",
+        "source": "massgis_import_v0.1_20071008165629"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.0851231,
+            42.3630707
+          ],
+          [
+            -71.0850396,
+            42.363179
+          ],
+          [
+            -71.0849643,
+            42.3632749
+          ],
+          [
+            -71.0848512,
+            42.3634191
+          ],
+          [
+            -71.0847331,
+            42.3635696
+          ],
+          [
+            -71.0847126,
+            42.3635993
+          ],
+          [
+            -71.0846863,
+            42.3636463
+          ],
+          [
+            -71.084671,
+            42.3636782
+          ],
+          [
+            -71.0843411,
+            42.3641292
+          ],
+          [
+            -71.0842952,
+            42.3641918
+          ]
+        ]
+      },
+      "id": "way/8615828"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/8615862",
+        "attribution": "Office of Geographic and Environmental Information (MassGIS)",
+        "condition": "fair",
+        "hgv": "no",
+        "highway": "primary",
+        "lanes": "2",
+        "massgis:ref": "0 N337",
+        "massgis:way_id": "147092",
+        "name": "Land Boulevard",
+        "official_name": "Edwin H. Land Boulevard",
+        "old_ref": "SR 3",
+        "oneway": "yes",
+        "source": "massgis_import_v0.1_20071008165629",
+        "surface": "asphalt",
+        "width": "18.9"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.0836352,
+            42.3600867
+          ],
+          [
+            -71.083315,
+            42.3601724
+          ],
+          [
+            -71.0831799,
+            42.3602099
+          ],
+          [
+            -71.0830414,
+            42.3602516
+          ],
+          [
+            -71.0829063,
+            42.360294
+          ],
+          [
+            -71.0821593,
+            42.3605453
+          ],
+          [
+            -71.0820308,
+            42.3605854
+          ],
+          [
+            -71.0818888,
+            42.360623
+          ],
+          [
+            -71.0817384,
+            42.3606546
+          ]
+        ]
+      },
+      "id": "way/8615862"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/8615889",
+        "attribution": "Office of Geographic and Environmental Information (MassGIS)",
+        "bicycle": "designated",
+        "condition": "fair",
+        "cycleway": "lane",
+        "highway": "residential",
+        "lanes": "1",
+        "massgis:way_id": "136164",
+        "maxspeed": "25 mph",
+        "name": "Linskey Way",
+        "oneway": "yes",
+        "source": "massgis_import_v0.1_20071008165629",
+        "width": "9.1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.0827668,
+            42.3650925
+          ],
+          [
+            -71.081971,
+            42.3649924
+          ]
+        ]
+      },
+      "id": "way/8615889"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/8615972",
+        "alt_name": "6th Street",
+        "attribution": "Office of Geographic and Environmental Information (MassGIS)",
+        "condition": "fair",
+        "highway": "tertiary",
+        "lanes": "2",
+        "massgis:way_id": "107849",
+        "name": "Sixth Street",
+        "source": "massgis_import_v0.1_20071008165629",
+        "surface": "asphalt",
+        "width": "15.2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.0855851,
+            42.3682483
+          ],
+          [
+            -71.0854355,
+            42.3688856
+          ],
+          [
+            -71.0854265,
+            42.3689238
+          ],
+          [
+            -71.0852694,
+            42.3695932
+          ],
+          [
+            -71.0851089,
+            42.3702771
+          ],
+          [
+            -71.0849529,
+            42.3709417
+          ],
+          [
+            -71.0847886,
+            42.3716418
+          ],
+          [
+            -71.08462,
+            42.37236
+          ]
+        ]
+      },
+      "id": "way/8615972"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/8615977",
+        "attribution": "Office of Geographic and Environmental Information (MassGIS)",
+        "condition": "good",
+        "highway": "residential",
+        "lanes": "2",
+        "massgis:way_id": "175769",
+        "maxspeed": "25 mph",
+        "name": "Rogers Street",
+        "source": "massgis_import_v0.1_20071008165629",
+        "surface": "asphalt",
+        "width": "8.5"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.0880348,
+            42.3671342
+          ],
+          [
+            -71.0876263,
+            42.367083
+          ],
+          [
+            -71.0875637,
+            42.3670893
+          ],
+          [
+            -71.0874891,
+            42.3671141
+          ],
+          [
+            -71.0874151,
+            42.3671267
+          ],
+          [
+            -71.0858928,
+            42.3669076
+          ],
+          [
+            -71.084267,
+            42.366681
+          ],
+          [
+            -71.0829942,
+            42.3665157
+          ],
+          [
+            -71.0819996,
+            42.3663837
+          ]
+        ]
+      },
+      "id": "way/8615977"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/8615995",
+        "attribution": "Office of Geographic and Environmental Information (MassGIS)",
+        "highway": "unclassified",
+        "massgis:way_id": "49",
+        "source": "massgis_import_v0.1_20071008165629"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.0861393,
+            42.3649772
+          ],
+          [
+            -71.0854339,
+            42.3646792
+          ],
+          [
+            -71.085255,
+            42.3646039
+          ],
+          [
+            -71.0852445,
+            42.3645996
+          ],
+          [
+            -71.0851523,
+            42.3645618
+          ],
+          [
+            -71.0850402,
+            42.364532
+          ],
+          [
+            -71.0849491,
+            42.3645124
+          ],
+          [
+            -71.0848518,
+            42.3644601
+          ],
+          [
+            -71.0847663,
+            42.3643983
+          ]
+        ]
+      },
+      "id": "way/8615995"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/8616022",
+        "attribution": "Office of Geographic and Environmental Information (MassGIS)",
+        "condition": "fair; deficient",
+        "highway": "tertiary",
+        "lanes": "2",
+        "massgis:way_id": "194740; 196755",
+        "motor_vehicle": "yes",
+        "name": "Ames Street",
+        "oneway": "no",
+        "source": "massgis_import_v0.1_20071008165629",
+        "surface": "asphalt",
+        "width": "15.2; 18.6"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.0876411,
+            42.3600151
+          ],
+          [
+            -71.0875811,
+            42.3599063
+          ],
+          [
+            -71.0872167,
+            42.3593149
+          ],
+          [
+            -71.0871957,
+            42.3592894
+          ],
+          [
+            -71.0871446,
+            42.359239
+          ]
+        ]
+      },
+      "id": "way/8616022"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/8616082",
+        "attribution": "Office of Geographic and Environmental Information (MassGIS)",
+        "condition": "good",
+        "cycleway:both": "no",
+        "highway": "residential",
+        "lanes": "1",
+        "massgis:way_id": "175769",
+        "maxspeed": "25 mph",
+        "name": "Rogers Street",
+        "source": "massgis_import_v0.1_20071008165629",
+        "surface": "asphalt",
+        "width": "9.1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.079712,
+            42.366093
+          ],
+          [
+            -71.0780373,
+            42.3658801
+          ],
+          [
+            -71.0767703,
+            42.3657096
+          ]
+        ]
+      },
+      "id": "way/8616082"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/8616089",
+        "attribution": "Office of Geographic and Environmental Information (MassGIS)",
+        "condition": "good",
+        "highway": "residential",
+        "lanes": "2",
+        "massgis:way_id": "107137",
+        "maxspeed": "25 mph",
+        "name": "Bent Street",
+        "source": "massgis_import_v0.1_20071008165629",
+        "surface": "asphalt",
+        "width": "14.9"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.0795412,
+            42.3667681
+          ],
+          [
+            -71.0778774,
+            42.3665632
+          ]
+        ]
+      },
+      "id": "way/8616089"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/8616115",
+        "attribution": "Office of Geographic and Environmental Information (MassGIS)",
+        "condition": "fair",
+        "highway": "residential",
+        "lanes": "2",
+        "massgis:way_id": "199914",
+        "maxspeed": "25 mph",
+        "name": "Athenaeum Street",
+        "oneway": "no",
+        "source": "massgis_import_v0.1_20071008165629",
+        "surface": "asphalt",
+        "width": "15.9"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.0831239,
+            42.3644637
+          ],
+          [
+            -71.0819266,
+            42.3643055
+          ],
+          [
+            -71.0817421,
+            42.3642811
+          ],
+          [
+            -71.0812761,
+            42.3642195
+          ],
+          [
+            -71.080166,
+            42.3640728
+          ],
+          [
+            -71.0798872,
+            42.3640331
+          ],
+          [
+            -71.0785477,
+            42.363859
+          ]
+        ]
+      },
+      "id": "way/8616115"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/8616130",
+        "attribution": "Office of Geographic and Environmental Information (MassGIS)",
+        "condition": "deficient",
+        "highway": "residential",
+        "lanes": "2",
+        "massgis:way_id": "193328",
+        "maxspeed": "25 mph",
+        "name": "Sciarappa Street",
+        "source": "massgis_import_v0.1_20071008165629",
+        "surface": "asphalt",
+        "width": "14.6"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.0822834,
+            42.3678172
+          ],
+          [
+            -71.082123,
+            42.368501
+          ],
+          [
+            -71.08202,
+            42.368948
+          ],
+          [
+            -71.081969,
+            42.3691691
+          ],
+          [
+            -71.081862,
+            42.369631
+          ],
+          [
+            -71.0818124,
+            42.3698498
+          ],
+          [
+            -71.08166,
+            42.370534
+          ],
+          [
+            -71.0816176,
+            42.3706687
+          ],
+          [
+            -71.0815754,
+            42.3708756
+          ],
+          [
+            -71.081503,
+            42.37123
+          ]
+        ]
+      },
+      "id": "way/8616130"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/8616238",
+        "attribution": "Office of Geographic and Environmental Information (MassGIS)",
+        "highway": "residential",
+        "maxspeed": "25 mph",
+        "name": "Broad Canal Way",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.0837886,
+            42.3633639
+          ],
+          [
+            -71.0837564,
+            42.3633494
+          ],
+          [
+            -71.0837207,
+            42.3633365
+          ],
+          [
+            -71.0836885,
+            42.3633265
+          ],
+          [
+            -71.0824092,
+            42.3630222
+          ],
+          [
+            -71.0823524,
+            42.3630022
+          ],
+          [
+            -71.0823311,
+            42.3629912
+          ],
+          [
+            -71.0823151,
+            42.3629779
+          ],
+          [
+            -71.0822623,
+            42.3629103
+          ],
+          [
+            -71.0821756,
+            42.3627762
+          ],
+          [
+            -71.0820902,
+            42.3626638
+          ],
+          [
+            -71.0820774,
+            42.3626402
+          ],
+          [
+            -71.0820713,
+            42.3626169
+          ],
+          [
+            -71.0820698,
+            42.3625901
+          ],
+          [
+            -71.0820701,
+            42.3625637
+          ],
+          [
+            -71.0821211,
+            42.3621748
+          ],
+          [
+            -71.0821253,
+            42.3621427
+          ]
+        ]
+      },
+      "id": "way/8616238"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/28631895",
+        "attribution": "Office of Geographic and Environmental Information (MassGIS)",
+        "bicycle": "designated",
+        "condition": "fair",
+        "cycleway": "track",
+        "highway": "tertiary",
+        "lanes": "2",
+        "massgis:way_id": "128520",
+        "name": "Vassar Street",
+        "source": "massgis_import_v0.1_20071008165629",
+        "surface": "asphalt",
+        "width": "17.1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.0941614,
+            42.3604942
+          ],
+          [
+            -71.0938467,
+            42.3606437
+          ],
+          [
+            -71.0936993,
+            42.3607137
+          ],
+          [
+            -71.0929964,
+            42.3610495
+          ],
+          [
+            -71.0927647,
+            42.3611637
+          ],
+          [
+            -71.0926148,
+            42.3612381
+          ],
+          [
+            -71.0925551,
+            42.3612678
+          ],
+          [
+            -71.0921439,
+            42.361472
+          ],
+          [
+            -71.0920292,
+            42.361529
+          ],
+          [
+            -71.0914907,
+            42.3617964
+          ],
+          [
+            -71.091359,
+            42.3618674
+          ],
+          [
+            -71.0912292,
+            42.3619374
+          ],
+          [
+            -71.0907826,
+            42.3621783
+          ],
+          [
+            -71.0907079,
+            42.3622174
+          ],
+          [
+            -71.0906301,
+            42.362257
+          ],
+          [
+            -71.0905402,
+            42.3623007
+          ]
+        ]
+      },
+      "id": "way/28631895"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/28632018",
+        "attribution": "Office of Geographic and Environmental Information (MassGIS)",
+        "condition": "deficient",
+        "cycleway": "lane",
+        "hazmat": "designated",
+        "highway": "secondary",
+        "lanes": "2",
+        "massgis:way_id": "110569",
+        "maxspeed": "25 mph",
+        "name": "Binney Street",
+        "oneway": "yes",
+        "source": "massgis_import_v0.1_20071008165629",
+        "surface": "asphalt",
+        "width": "14.9"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.0877895,
+            42.3663205
+          ],
+          [
+            -71.0872545,
+            42.3662506
+          ],
+          [
+            -71.0866621,
+            42.3661787
+          ]
+        ]
+      },
+      "id": "way/28632018"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/33720430",
+        "attribution": "Office of Geographic and Environmental Information (MassGIS)",
+        "condition": "fair",
+        "cycleway": "lane",
+        "highway": "secondary",
+        "lanes": "2",
+        "massgis:ref": "0 N323",
+        "massgis:way_id": "147645",
+        "name": "Main Street",
+        "oneway": "yes",
+        "source": "massgis_import_v0.1_20071008165629",
+        "surface": "asphalt",
+        "width": "21.3"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.0830222,
+            42.3621793
+          ],
+          [
+            -71.0830611,
+            42.3621819
+          ],
+          [
+            -71.083093,
+            42.3621841
+          ],
+          [
+            -71.0831653,
+            42.3621926
+          ],
+          [
+            -71.083231,
+            42.3622025
+          ],
+          [
+            -71.083299,
+            42.3622145
+          ],
+          [
+            -71.0833665,
+            42.3622278
+          ],
+          [
+            -71.0834356,
+            42.3622436
+          ],
+          [
+            -71.0834956,
+            42.3622602
+          ],
+          [
+            -71.0835589,
+            42.3622803
+          ],
+          [
+            -71.0836681,
+            42.362321
+          ],
+          [
+            -71.0837455,
+            42.3623568
+          ]
+        ]
+      },
+      "id": "way/33720430"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/34065677",
+        "attribution": "Office of Geographic and Environmental Information (MassGIS)",
+        "condition": "fair",
+        "cycleway:right": "lane",
+        "highway": "secondary",
+        "lanes": "1",
+        "massgis:ref": "0 N323",
+        "massgis:way_id": "147645",
+        "name": "Main Street",
+        "oneway": "yes",
+        "source": "massgis_import_v0.1_20071008165629",
+        "surface": "asphalt",
+        "width": "21.3"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.0844086,
+            42.3626504
+          ],
+          [
+            -71.0846134,
+            42.3624745
+          ],
+          [
+            -71.0846856,
+            42.3624208
+          ],
+          [
+            -71.0847634,
+            42.3623862
+          ],
+          [
+            -71.0848122,
+            42.3623744
+          ],
+          [
+            -71.0848595,
+            42.3623719
+          ],
+          [
+            -71.084916,
+            42.3623735
+          ],
+          [
+            -71.0861469,
+            42.3624719
+          ],
+          [
+            -71.0879891,
+            42.3626108
+          ],
+          [
+            -71.0880814,
+            42.3626176
+          ],
+          [
+            -71.0881584,
+            42.3626232
+          ]
+        ]
+      },
+      "id": "way/34065677"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/42769910",
+        "attribution": "Office of Geographic and Environmental Information (MassGIS)",
+        "condition": "fair; deficient",
+        "highway": "tertiary",
+        "lanes": "2",
+        "massgis:way_id": "194740; 196755",
+        "name": "Ames Street",
+        "oneway": "no",
+        "source": "massgis_import_v0.1_20071008165629",
+        "surface": "asphalt",
+        "width": "15.2; 18.6"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.0876411,
+            42.3600151
+          ],
+          [
+            -71.0881849,
+            42.3609241
+          ],
+          [
+            -71.0881972,
+            42.3609441
+          ],
+          [
+            -71.088271,
+            42.3610656
+          ],
+          [
+            -71.0882959,
+            42.3611079
+          ],
+          [
+            -71.0883206,
+            42.3611753
+          ],
+          [
+            -71.0883302,
+            42.3612499
+          ],
+          [
+            -71.0883306,
+            42.3613297
+          ],
+          [
+            -71.088182,
+            42.3624442
+          ]
+        ]
+      },
+      "id": "way/42769910"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/81161476",
+        "highway": "unclassified",
+        "name": "West Kendall Street",
+        "oneway": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.081758,
+            42.3649656
+          ],
+          [
+            -71.0818355,
+            42.3646627
+          ],
+          [
+            -71.0819266,
+            42.3643055
+          ]
+        ]
+      },
+      "id": "way/81161476"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/89784394",
+        "attribution": "Office of Geographic and Environmental Information (MassGIS)",
+        "condition": "fair",
+        "hgv": "no",
+        "highway": "primary",
+        "lanes": "2",
+        "massgis:way_id": "147092",
+        "name": "Land Boulevard",
+        "official_name": "Edwin H. Land Boulevard",
+        "oneway": "yes",
+        "ref": "MA 3",
+        "source": "massgis_import_v0.1_20071008165629",
+        "surface": "asphalt",
+        "width": "18.9"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.0788811,
+            42.3620815
+          ],
+          [
+            -71.078884,
+            42.3620257
+          ],
+          [
+            -71.0788871,
+            42.3619725
+          ],
+          [
+            -71.0789081,
+            42.3617885
+          ],
+          [
+            -71.0789256,
+            42.3616861
+          ],
+          [
+            -71.0789425,
+            42.3616028
+          ],
+          [
+            -71.0789623,
+            42.3615287
+          ],
+          [
+            -71.0789853,
+            42.3614558
+          ],
+          [
+            -71.0790098,
+            42.361398
+          ],
+          [
+            -71.0790386,
+            42.3613522
+          ]
+        ]
+      },
+      "id": "way/89784394"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/89784395",
+        "attribution": "Office of Geographic and Environmental Information (MassGIS)",
+        "bridge": "yes",
+        "condition": "fair",
+        "hgv": "yes",
+        "highway": "primary",
+        "lanes": "3",
+        "layer": "1",
+        "massgis:way_id": "147092",
+        "name": "Land Boulevard",
+        "official_name": "Edwin H. Land Boulevard",
+        "oneway": "yes",
+        "source": "massgis_import_v0.1_20071008165629",
+        "width": "18.9"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.0787942,
+            42.3626652
+          ],
+          [
+            -71.0788743,
+            42.3623251
+          ]
+        ]
+      },
+      "id": "way/89784395"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/89784396",
+        "attribution": "Office of Geographic and Environmental Information (MassGIS)",
+        "bridge": "yes",
+        "condition": "fair",
+        "hgv": "no",
+        "highway": "primary",
+        "lanes": "2",
+        "layer": "1",
+        "massgis:ref": "0 N337",
+        "massgis:way_id": "147092",
+        "name": "Land Boulevard",
+        "official_name": "Edwin H. Land Boulevard",
+        "old_ref": "SR 3",
+        "oneway": "yes",
+        "source": "massgis_import_v0.1_20071008165629",
+        "width": "18.9"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.0784634,
+            42.3619271
+          ],
+          [
+            -71.0784331,
+            42.3621209
+          ],
+          [
+            -71.0784171,
+            42.3622107
+          ],
+          [
+            -71.0783997,
+            42.3623
+          ],
+          [
+            -71.0783748,
+            42.3624133
+          ],
+          [
+            -71.0783171,
+            42.3626333
+          ]
+        ]
+      },
+      "id": "way/89784396"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/89785703",
+        "attribution": "Office of Geographic and Environmental Information (MassGIS)",
+        "bridge": "yes",
+        "condition": "fair",
+        "hgv": "no",
+        "highway": "primary",
+        "lanes": "2",
+        "layer": "1",
+        "massgis:ref": "0 N337",
+        "massgis:way_id": "147092",
+        "name": "Land Boulevard",
+        "official_name": "Edwin H. Land Boulevard",
+        "old_ref": "SR 3",
+        "oneway": "yes",
+        "source": "massgis_import_v0.1_20071008165629",
+        "surface": "asphalt",
+        "width": "18.9"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.0817384,
+            42.3606546
+          ],
+          [
+            -71.0815895,
+            42.3606774
+          ],
+          [
+            -71.0814417,
+            42.360697
+          ],
+          [
+            -71.0813017,
+            42.3607098
+          ],
+          [
+            -71.0811662,
+            42.3607174
+          ],
+          [
+            -71.081041,
+            42.3607202
+          ],
+          [
+            -71.0799481,
+            42.3607143
+          ],
+          [
+            -71.0798381,
+            42.3607155
+          ],
+          [
+            -71.0797339,
+            42.3607221
+          ],
+          [
+            -71.0796214,
+            42.360732
+          ],
+          [
+            -71.0795218,
+            42.3607458
+          ],
+          [
+            -71.0794168,
+            42.3607683
+          ],
+          [
+            -71.0793154,
+            42.3607966
+          ],
+          [
+            -71.0792118,
+            42.3608343
+          ],
+          [
+            -71.0791208,
+            42.360873
+          ],
+          [
+            -71.0790347,
+            42.3609188
+          ],
+          [
+            -71.0789476,
+            42.3609722
+          ],
+          [
+            -71.078868,
+            42.361026
+          ],
+          [
+            -71.0787922,
+            42.3610908
+          ],
+          [
+            -71.0787418,
+            42.3611369
+          ],
+          [
+            -71.078705,
+            42.3611786
+          ],
+          [
+            -71.0786671,
+            42.3612259
+          ],
+          [
+            -71.0786317,
+            42.3612764
+          ],
+          [
+            -71.0786013,
+            42.3613291
+          ],
+          [
+            -71.0785729,
+            42.3613832
+          ],
+          [
+            -71.0785514,
+            42.3614339
+          ],
+          [
+            -71.0785338,
+            42.3614893
+          ],
+          [
+            -71.0785173,
+            42.3615533
+          ]
+        ]
+      },
+      "id": "way/89785703"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/89785707",
+        "attribution": "Office of Geographic and Environmental Information (MassGIS)",
+        "bridge": "yes",
+        "condition": "fair",
+        "hgv": "no",
+        "highway": "primary",
+        "lanes": "2",
+        "layer": "1",
+        "massgis:way_id": "147092",
+        "name": "Land Boulevard",
+        "official_name": "Edwin H. Land Boulevard",
+        "oneway": "yes",
+        "ref": "MA 3",
+        "source": "massgis_import_v0.1_20071008165629",
+        "surface": "asphalt",
+        "width": "18.9"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.0790386,
+            42.3613522
+          ],
+          [
+            -71.0790842,
+            42.3612926
+          ],
+          [
+            -71.079134,
+            42.3612372
+          ],
+          [
+            -71.0791932,
+            42.3611806
+          ],
+          [
+            -71.0792652,
+            42.361123
+          ],
+          [
+            -71.07935,
+            42.3610648
+          ],
+          [
+            -71.0794361,
+            42.3610158
+          ],
+          [
+            -71.0795306,
+            42.3609714
+          ],
+          [
+            -71.0796281,
+            42.3609353
+          ],
+          [
+            -71.0797343,
+            42.3609021
+          ],
+          [
+            -71.0798397,
+            42.3608809
+          ],
+          [
+            -71.0799492,
+            42.3608655
+          ],
+          [
+            -71.0800535,
+            42.3608574
+          ],
+          [
+            -71.0801687,
+            42.3608533
+          ],
+          [
+            -71.0810877,
+            42.3608633
+          ]
+        ]
+      },
+      "id": "way/89785707"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/89785708",
+        "attribution": "Office of Geographic and Environmental Information (MassGIS)",
+        "condition": "fair",
+        "hgv": "no",
+        "highway": "primary",
+        "lanes": "2",
+        "massgis:ref": "0 N337",
+        "massgis:way_id": "147092",
+        "name": "Land Boulevard",
+        "official_name": "Edwin H. Land Boulevard",
+        "old_ref": "SR 3",
+        "oneway": "yes",
+        "source": "massgis_import_v0.1_20071008165629",
+        "width": "18.9"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.0785173,
+            42.3615533
+          ],
+          [
+            -71.0785024,
+            42.3616361
+          ],
+          [
+            -71.0784634,
+            42.3619271
+          ]
+        ]
+      },
+      "id": "way/89785708"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/89785709",
+        "attribution": "Office of Geographic and Environmental Information (MassGIS)",
+        "condition": "fair",
+        "hgv": "no",
+        "highway": "primary",
+        "lanes": "2",
+        "massgis:way_id": "147092",
+        "name": "Land Boulevard",
+        "official_name": "Edwin H. Land Boulevard",
+        "oneway": "yes",
+        "ref": "MA 3",
+        "source": "massgis_import_v0.1_20071008165629",
+        "surface": "asphalt",
+        "width": "18.9"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.0810877,
+            42.3608633
+          ],
+          [
+            -71.0812462,
+            42.3608657
+          ],
+          [
+            -71.0813291,
+            42.3608669
+          ]
+        ]
+      },
+      "id": "way/89785709"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/89785711",
+        "attribution": "Office of Geographic and Environmental Information (MassGIS)",
+        "bridge": "yes",
+        "condition": "fair",
+        "hgv": "no",
+        "highway": "primary",
+        "lanes": "2",
+        "layer": "1",
+        "massgis:way_id": "147092",
+        "name": "Land Boulevard",
+        "official_name": "Edwin H. Land Boulevard",
+        "oneway": "yes",
+        "ref": "MA 3",
+        "source": "massgis_import_v0.1_20071008165629",
+        "surface": "asphalt",
+        "width": "18.9"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.0813291,
+            42.3608669
+          ],
+          [
+            -71.0819455,
+            42.3608719
+          ]
+        ]
+      },
+      "id": "way/89785711"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/89785712",
+        "attribution": "Office of Geographic and Environmental Information (MassGIS)",
+        "condition": "fair",
+        "hgv": "no",
+        "highway": "primary",
+        "lanes": "2",
+        "massgis:way_id": "147092",
+        "name": "Land Boulevard",
+        "official_name": "Edwin H. Land Boulevard",
+        "oneway": "yes",
+        "ref": "MA 3",
+        "source": "massgis_import_v0.1_20071008165629",
+        "surface": "asphalt",
+        "width": "18.9"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.0819455,
+            42.3608719
+          ],
+          [
+            -71.0820351,
+            42.3608697
+          ],
+          [
+            -71.0821169,
+            42.3608637
+          ],
+          [
+            -71.0821984,
+            42.3608547
+          ],
+          [
+            -71.0822758,
+            42.3608441
+          ],
+          [
+            -71.0823502,
+            42.3608287
+          ],
+          [
+            -71.0824292,
+            42.3608086
+          ],
+          [
+            -71.0825632,
+            42.3607708
+          ]
+        ]
+      },
+      "id": "way/89785712"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/90719013",
+        "attribution": "Office of Geographic and Environmental Information (MassGIS)",
+        "condition": "fair",
+        "cycleway": "lane",
+        "highway": "tertiary",
+        "lanes": "5",
+        "lanes:backward": "3",
+        "lanes:forward": "2",
+        "massgis:ref": "0 N324",
+        "massgis:way_id": "206060",
+        "maxspeed": "25 mph",
+        "maxspeed:type": "sign",
+        "name": "Broadway",
+        "source": "massgis_import_v0.1_20071008165629",
+        "surface": "asphalt",
+        "turn:lanes:backward": "left|through|",
+        "turn:lanes:forward": "|right",
+        "width": "24.4"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.0896646,
+            42.3649006
+          ],
+          [
+            -71.0897255,
+            42.3649225
+          ],
+          [
+            -71.0901203,
+            42.3650642
+          ]
+        ]
+      },
+      "id": "way/90719013"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/90758564",
+        "attribution": "Office of Geographic and Environmental Information (MassGIS)",
+        "condition": "deficient",
+        "cycleway": "lane",
+        "highway": "secondary",
+        "lanes": "2",
+        "massgis:way_id": "110569",
+        "name": "Binney Street",
+        "oneway": "yes",
+        "source": "massgis_import_v0.1_20071008165629",
+        "surface": "asphalt",
+        "width": "14.9"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.0772119,
+            42.364973
+          ],
+          [
+            -71.0773702,
+            42.3650531
+          ],
+          [
+            -71.0774338,
+            42.3650831
+          ],
+          [
+            -71.0774861,
+            42.365101
+          ],
+          [
+            -71.0775398,
+            42.3651119
+          ],
+          [
+            -71.0781974,
+            42.3651968
+          ]
+        ]
+      },
+      "id": "way/90758564"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/90758903",
+        "attribution": "Office of Geographic and Environmental Information (MassGIS)",
+        "condition": "fair",
+        "cycleway:right": "lane",
+        "hazmat": "designated",
+        "highway": "secondary",
+        "lanes": "2",
+        "massgis:way_id": "146255",
+        "maxspeed": "25 mph",
+        "maxspeed:type": "sign",
+        "name": "Galileo Galilei Way",
+        "oneway": "yes",
+        "source": "massgis_import_v0.1_20071008165629",
+        "surface": "asphalt",
+        "width": "12.2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.08809,
+            42.3664371
+          ],
+          [
+            -71.0881479,
+            42.3664327
+          ],
+          [
+            -71.088173,
+            42.3664286
+          ],
+          [
+            -71.0883605,
+            42.3663983
+          ],
+          [
+            -71.0884845,
+            42.3663653
+          ],
+          [
+            -71.0886026,
+            42.3663247
+          ],
+          [
+            -71.0887158,
+            42.3662756
+          ],
+          [
+            -71.0888178,
+            42.3662172
+          ],
+          [
+            -71.0889148,
+            42.3661523
+          ],
+          [
+            -71.089022,
+            42.366062
+          ],
+          [
+            -71.0891202,
+            42.3659455
+          ],
+          [
+            -71.0891867,
+            42.365847
+          ],
+          [
+            -71.0892446,
+            42.3657147
+          ],
+          [
+            -71.0892574,
+            42.36564
+          ]
+        ]
+      },
+      "id": "way/90758903"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/138749236",
+        "attribution": "Office of Geographic and Environmental Information (MassGIS)",
+        "condition": "deficient",
+        "cycleway": "lane",
+        "highway": "secondary",
+        "lanes": "2",
+        "massgis:way_id": "110569",
+        "name": "Binney Street",
+        "oneway": "yes",
+        "source": "massgis_import_v0.1_20071008165629",
+        "surface": "asphalt",
+        "width": "14.9"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.0782211,
+            42.3650954
+          ],
+          [
+            -71.0775975,
+            42.3650108
+          ],
+          [
+            -71.0775514,
+            42.3650024
+          ],
+          [
+            -71.0775019,
+            42.3649883
+          ],
+          [
+            -71.0774506,
+            42.364971
+          ]
+        ]
+      },
+      "id": "way/138749236"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/138749239",
+        "attribution": "Office of Geographic and Environmental Information (MassGIS)",
+        "condition": "deficient",
+        "cycleway:right": "lane",
+        "hazmat": "designated",
+        "highway": "secondary",
+        "lanes": "2",
+        "massgis:way_id": "110569",
+        "name": "Binney Street",
+        "oneway": "yes",
+        "source": "massgis_import_v0.1_20071008165629",
+        "surface": "asphalt",
+        "width": "14.9"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.0823709,
+            42.3657342
+          ],
+          [
+            -71.0833991,
+            42.3658659
+          ]
+        ]
+      },
+      "id": "way/138749239"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/138749249",
+        "attribution": "Office of Geographic and Environmental Information (MassGIS)",
+        "bicycle": "designated",
+        "condition": "fair",
+        "cycleway": "lane",
+        "hazmat": "designated",
+        "highway": "tertiary",
+        "lanes": "2",
+        "massgis:way_id": "187849",
+        "name": "First Street",
+        "source": "massgis_import_v0.1_20071008165629",
+        "surface": "asphalt",
+        "width": "14.3"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.0777224,
+            42.3672248
+          ],
+          [
+            -71.0775599,
+            42.3679188
+          ],
+          [
+            -71.0774066,
+            42.3685733
+          ],
+          [
+            -71.0772589,
+            42.3692039
+          ],
+          [
+            -71.0772448,
+            42.3692641
+          ],
+          [
+            -71.0772299,
+            42.3693277
+          ],
+          [
+            -71.0771039,
+            42.3698659
+          ],
+          [
+            -71.0770859,
+            42.3699425
+          ],
+          [
+            -71.0770661,
+            42.3700271
+          ],
+          [
+            -71.0769234,
+            42.3706364
+          ]
+        ]
+      },
+      "id": "way/138749249"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/138749269",
+        "attribution": "Office of Geographic and Environmental Information (MassGIS)",
+        "cycleway": "lane",
+        "hazmat": "designated",
+        "highway": "tertiary",
+        "lanes": "2",
+        "massgis:ref": "0 N323",
+        "massgis:way_id": "147645",
+        "maxspeed": "25 mph",
+        "name": "Main Street",
+        "source": "massgis_import_v0.1_20071008165629",
+        "surface": "asphalt",
+        "width": "21.3"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.0994207,
+            42.3634171
+          ],
+          [
+            -71.0992944,
+            42.3634089
+          ],
+          [
+            -71.0983608,
+            42.3633322
+          ],
+          [
+            -71.0980113,
+            42.3633037
+          ],
+          [
+            -71.0975111,
+            42.3632629
+          ],
+          [
+            -71.0967969,
+            42.3632083
+          ],
+          [
+            -71.0967089,
+            42.3632016
+          ],
+          [
+            -71.096638,
+            42.3631965
+          ],
+          [
+            -71.0959717,
+            42.3631485
+          ],
+          [
+            -71.0955929,
+            42.3631212
+          ],
+          [
+            -71.0952709,
+            42.363098
+          ],
+          [
+            -71.0951561,
+            42.3630889
+          ],
+          [
+            -71.0948289,
+            42.3630628
+          ],
+          [
+            -71.094713,
+            42.3630536
+          ],
+          [
+            -71.094424,
+            42.3630307
+          ],
+          [
+            -71.0938536,
+            42.3629957
+          ],
+          [
+            -71.0937497,
+            42.3629868
+          ],
+          [
+            -71.0936322,
+            42.3629768
+          ],
+          [
+            -71.0935444,
+            42.3629702
+          ],
+          [
+            -71.092894,
+            42.3629219
+          ],
+          [
+            -71.0923472,
+            42.3628812
+          ],
+          [
+            -71.0920012,
+            42.3628555
+          ],
+          [
+            -71.0919337,
+            42.3628518
+          ],
+          [
+            -71.0913418,
+            42.362819
+          ],
+          [
+            -71.0908044,
+            42.362771
+          ]
+        ]
+      },
+      "id": "way/138749269"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/138788973",
+        "attribution": "Office of Geographic and Environmental Information (MassGIS)",
+        "condition": "fair",
+        "hgv": "yes",
+        "highway": "primary",
+        "lanes": "2",
+        "massgis:ref": "0 N337",
+        "massgis:way_id": "147092",
+        "name": "Land Boulevard",
+        "official_name": "Edwin H. Land Boulevard",
+        "old_ref": "SR 3",
+        "oneway": "yes",
+        "source": "massgis_import_v0.1_20071008165629",
+        "surface": "asphalt",
+        "width": "18.9"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.0783356,
+            42.3630497
+          ],
+          [
+            -71.0783688,
+            42.3632828
+          ],
+          [
+            -71.0783814,
+            42.363391
+          ],
+          [
+            -71.0783832,
+            42.3634458
+          ],
+          [
+            -71.0783822,
+            42.3634984
+          ],
+          [
+            -71.0783776,
+            42.3635533
+          ],
+          [
+            -71.0783697,
+            42.3636015
+          ],
+          [
+            -71.0783554,
+            42.3636609
+          ],
+          [
+            -71.078339,
+            42.3637087
+          ],
+          [
+            -71.0783189,
+            42.3637607
+          ],
+          [
+            -71.0782949,
+            42.3638118
+          ],
+          [
+            -71.0782658,
+            42.3638625
+          ],
+          [
+            -71.0782363,
+            42.3639087
+          ],
+          [
+            -71.0782023,
+            42.3639553
+          ],
+          [
+            -71.0781669,
+            42.3639986
+          ],
+          [
+            -71.0780944,
+            42.3640814
+          ],
+          [
+            -71.0780234,
+            42.364153
+          ],
+          [
+            -71.0779416,
+            42.3642286
+          ]
+        ]
+      },
+      "id": "way/138788973"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/138788989",
+        "attribution": "Office of Geographic and Environmental Information (MassGIS)",
+        "condition": "good",
+        "hgv": "no",
+        "highway": "primary",
+        "lanes": "2",
+        "massgis:way_id": "144604",
+        "name": "Memorial Drive",
+        "oneway": "yes",
+        "ref": "MA 3",
+        "source": "massgis_import_v0.1_20071008165629",
+        "start_date": "05/08/2004",
+        "surface": "asphalt",
+        "width": "30.5"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.0839234,
+            42.3600046
+          ],
+          [
+            -71.0836352,
+            42.3600867
+          ]
+        ]
+      },
+      "id": "way/138788989"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/138789027",
+        "attribution": "Office of Geographic and Environmental Information (MassGIS)",
+        "condition": "good",
+        "highway": "primary",
+        "lanes": "2",
+        "massgis:way_id": "144604",
+        "name": "Memorial Drive",
+        "oneway": "yes",
+        "ref": "MA 3",
+        "source": "massgis_import_v0.1_20071008165629",
+        "start_date": "05/08/2004",
+        "surface": "asphalt",
+        "width": "30.5"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.0825632,
+            42.3607708
+          ],
+          [
+            -71.0838,
+            42.3603569
+          ],
+          [
+            -71.0838908,
+            42.3603265
+          ]
+        ]
+      },
+      "id": "way/138789027"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/138789034",
+        "FIXME:hgv": "verify",
+        "attribution": "Office of Geographic and Environmental Information (MassGIS)",
+        "condition": "good",
+        "hgv": "yes",
+        "highway": "primary",
+        "lanes": "2",
+        "massgis:way_id": "144604",
+        "name": "Memorial Drive",
+        "oneway": "yes",
+        "ref": "MA 3",
+        "source": "massgis_import_v0.1_20071008165629",
+        "start_date": "05/08/2004",
+        "surface": "asphalt",
+        "width": "30.5"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.0873269,
+            42.3588638
+          ],
+          [
+            -71.087098,
+            42.3589411
+          ],
+          [
+            -71.086862,
+            42.3590208
+          ],
+          [
+            -71.0868172,
+            42.359036
+          ],
+          [
+            -71.0848437,
+            42.3596993
+          ]
+        ]
+      },
+      "id": "way/138789034"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/141434934",
+        "highway": "residential",
+        "maxspeed": "25 mph",
+        "name": "Kendall Street",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.0834159,
+            42.3639496
+          ],
+          [
+            -71.0827093,
+            42.3637754
+          ],
+          [
+            -71.0821497,
+            42.363638
+          ],
+          [
+            -71.0821028,
+            42.3636304
+          ],
+          [
+            -71.0820657,
+            42.3636276
+          ],
+          [
+            -71.0820274,
+            42.363628
+          ],
+          [
+            -71.0819935,
+            42.3636316
+          ],
+          [
+            -71.0819644,
+            42.3636388
+          ],
+          [
+            -71.0819391,
+            42.3636507
+          ],
+          [
+            -71.0819154,
+            42.3636654
+          ],
+          [
+            -71.0819014,
+            42.3636781
+          ],
+          [
+            -71.0818965,
+            42.3636826
+          ],
+          [
+            -71.081882,
+            42.3636985
+          ],
+          [
+            -71.0818685,
+            42.3637204
+          ],
+          [
+            -71.0818588,
+            42.363746
+          ],
+          [
+            -71.0817421,
+            42.3642811
+          ]
+        ]
+      },
+      "id": "way/141434934"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/149924229",
+        "bicycle": "yes",
+        "cycleway:both": "lane",
+        "highway": "tertiary",
+        "lanes": "2",
+        "name": "Ames Street",
+        "oneway": "no",
+        "parking:condition:right": "ticket",
+        "parking:lane:right": "parallel",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.088182,
+            42.3624442
+          ],
+          [
+            -71.0881669,
+            42.3625586
+          ]
+        ]
+      },
+      "id": "way/149924229"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/149924232",
+        "attribution": "Office of Geographic and Environmental Information (MassGIS)",
+        "condition": "good",
+        "hgv": "yes",
+        "highway": "primary",
+        "lanes": "2",
+        "massgis:way_id": "144604",
+        "name": "Memorial Drive",
+        "oneway": "yes",
+        "ref": "MA 3",
+        "source": "massgis_import_v0.1_20071008165629",
+        "start_date": "05/08/2004",
+        "surface": "asphalt",
+        "width": "30.5"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.0838908,
+            42.3603265
+          ],
+          [
+            -71.0870119,
+            42.3592834
+          ],
+          [
+            -71.0871446,
+            42.359239
+          ],
+          [
+            -71.0872606,
+            42.3592002
+          ],
+          [
+            -71.0874813,
+            42.3591265
+          ],
+          [
+            -71.088051,
+            42.358936
+          ],
+          [
+            -71.0905168,
+            42.3581119
+          ]
+        ]
+      },
+      "id": "way/149924232"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/158304971",
+        "attribution": "Office of Geographic and Environmental Information (MassGIS)",
+        "condition": "good",
+        "highway": "tertiary",
+        "lanes": "2",
+        "lanes:forward": "1",
+        "massgis:way_id": "145333",
+        "maxspeed": "25 mph",
+        "name": "Cardinal Medeiros Avenue",
+        "source": "massgis_import_v0.1_20071008165629",
+        "surface": "asphalt",
+        "width": "14.9"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.0915377,
+            42.3667036
+          ],
+          [
+            -71.0912184,
+            42.3672459
+          ],
+          [
+            -71.090968,
+            42.3676813
+          ],
+          [
+            -71.0909338,
+            42.3677408
+          ],
+          [
+            -71.0907622,
+            42.3680388
+          ],
+          [
+            -71.0905783,
+            42.3683758
+          ],
+          [
+            -71.090339,
+            42.368798
+          ],
+          [
+            -71.0901827,
+            42.3690649
+          ],
+          [
+            -71.0901544,
+            42.3691143
+          ],
+          [
+            -71.0898475,
+            42.3696658
+          ],
+          [
+            -71.0898061,
+            42.3697398
+          ],
+          [
+            -71.0894818,
+            42.3703047
+          ],
+          [
+            -71.0894442,
+            42.3703701
+          ],
+          [
+            -71.089245,
+            42.370717
+          ],
+          [
+            -71.0892163,
+            42.3707692
+          ],
+          [
+            -71.0890369,
+            42.3710955
+          ],
+          [
+            -71.088974,
+            42.37121
+          ],
+          [
+            -71.088805,
+            42.371499
+          ],
+          [
+            -71.0884718,
+            42.3721052
+          ],
+          [
+            -71.0884634,
+            42.3721205
+          ]
+        ]
+      },
+      "id": "way/158304971"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/200502734",
+        "attribution": "Office of Geographic and Environmental Information (MassGIS)",
+        "condition": "fair",
+        "highway": "tertiary",
+        "lanes": "1",
+        "massgis:way_id": "110450",
+        "maxspeed": "25 mph",
+        "name": "Fulkerson Street",
+        "oneway": "yes",
+        "source": "massgis_import_v0.1_20071008165629",
+        "surface": "asphalt",
+        "width": "15.2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.0868795,
+            42.3719131
+          ],
+          [
+            -71.0870519,
+            42.3712182
+          ],
+          [
+            -71.0872206,
+            42.3705386
+          ],
+          [
+            -71.0873876,
+            42.3698654
+          ],
+          [
+            -71.087441,
+            42.369651
+          ],
+          [
+            -71.087531,
+            42.369257
+          ],
+          [
+            -71.087711,
+            42.368497
+          ]
+        ]
+      },
+      "id": "way/200502734"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/220086450",
+        "attribution": "Office of Geographic and Environmental Information (MassGIS)",
+        "condition": "deficient",
+        "highway": "residential",
+        "lanes": "2",
+        "massgis:way_id": "182472",
+        "maxspeed": "25 mph",
+        "name": "Amherst Street",
+        "source": "massgis_import_v0.1_20071008165629",
+        "surface": "asphalt",
+        "width": "18.3"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.0846901,
+            42.361002
+          ],
+          [
+            -71.0843973,
+            42.3610933
+          ]
+        ]
+      },
+      "id": "way/220086450"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/220086451",
+        "attribution": "Office of Geographic and Environmental Information (MassGIS)",
+        "condition": "deficient",
+        "highway": "residential",
+        "lanes": "2",
+        "massgis:way_id": "182472",
+        "maxspeed": "25 mph",
+        "name": "Amherst Street",
+        "source": "massgis_import_v0.1_20071008165629",
+        "tunnel": "yes",
+        "width": "18.3"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.0847307,
+            42.3609884
+          ],
+          [
+            -71.0846901,
+            42.361002
+          ]
+        ]
+      },
+      "id": "way/220086451"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/239457934",
+        "attribution": "Office of Geographic and Environmental Information (MassGIS)",
+        "condition": "fair",
+        "cycleway": "lane",
+        "hazmat": "designated",
+        "highway": "secondary",
+        "lanes": "2",
+        "massgis:way_id": "146255",
+        "maxspeed": "25 mph",
+        "maxspeed:type": "sign",
+        "name": "Galileo Galilei Way",
+        "oneway": "yes",
+        "source": "massgis_import_v0.1_20071008165629",
+        "surface": "asphalt",
+        "width": "12.2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.0893532,
+            42.3647385
+          ],
+          [
+            -71.0893354,
+            42.364812
+          ],
+          [
+            -71.0893009,
+            42.3649464
+          ],
+          [
+            -71.0891397,
+            42.3655748
+          ],
+          [
+            -71.08911,
+            42.365667
+          ],
+          [
+            -71.0890674,
+            42.3657688
+          ],
+          [
+            -71.0890064,
+            42.3658734
+          ],
+          [
+            -71.0889415,
+            42.3659607
+          ],
+          [
+            -71.0888504,
+            42.3660439
+          ],
+          [
+            -71.0887658,
+            42.3661146
+          ],
+          [
+            -71.0887249,
+            42.3661385
+          ],
+          [
+            -71.0886646,
+            42.3661738
+          ],
+          [
+            -71.08856,
+            42.366221
+          ],
+          [
+            -71.088455,
+            42.36626
+          ],
+          [
+            -71.0883501,
+            42.3662896
+          ],
+          [
+            -71.0882996,
+            42.366302
+          ]
+        ]
+      },
+      "id": "way/239457934"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/244444287",
+        "attribution": "Office of Geographic and Environmental Information (MassGIS)",
+        "bicycle": "yes",
+        "bridge": "yes",
+        "condition": "fair",
+        "cycleway:left": "lane",
+        "cycleway:right": "opposite",
+        "foot": "no",
+        "highway": "primary",
+        "lanes": "1",
+        "layer": "2",
+        "name": "Longfellow Bridge",
+        "oneway": "yes",
+        "ref": "MA 3",
+        "sidewalk": "none",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.0719915,
+            42.3613421
+          ],
+          [
+            -71.0753737,
+            42.3615936
+          ],
+          [
+            -71.0790549,
+            42.3618673
+          ],
+          [
+            -71.0792145,
+            42.3618792
+          ]
+        ]
+      },
+      "id": "way/244444287"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/244444288",
+        "access": "yes",
+        "attribution": "Office of Geographic and Environmental Information (MassGIS)",
+        "bicycle": "yes",
+        "bridge": "yes",
+        "cycleway": "lane",
+        "foot": "yes",
+        "highway": "primary",
+        "lanes": "1",
+        "layer": "2",
+        "massgis:way_id": "144604",
+        "name": "Longfellow Bridge",
+        "oneway": "yes",
+        "ref": "MA 3",
+        "source": "massgis_import_v0.1_20071008165629",
+        "surface": "asphalt",
+        "width": "30.5"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.0792379,
+            42.3617305
+          ],
+          [
+            -71.0787921,
+            42.3616981
+          ],
+          [
+            -71.0719851,
+            42.3611729
+          ]
+        ]
+      },
+      "id": "way/244444288"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/268973757",
+        "attribution": "Office of Geographic and Environmental Information (MassGIS)",
+        "condition": "fair",
+        "cycleway:both": "no",
+        "highway": "residential",
+        "lanes": "1",
+        "lit": "yes",
+        "massgis:way_id": "191582",
+        "maxspeed": "25 mph",
+        "name": "Spring Street",
+        "oneway": "-1",
+        "source": "massgis_import_v0.1_20071008165629",
+        "surface": "asphalt",
+        "width": "15.2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.080298,
+            42.3689544
+          ],
+          [
+            -71.0797119,
+            42.3688772
+          ],
+          [
+            -71.0790855,
+            42.3687946
+          ],
+          [
+            -71.0782397,
+            42.3686831
+          ],
+          [
+            -71.0774066,
+            42.3685733
+          ]
+        ]
+      },
+      "id": "way/268973757"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/302156851",
+        "bicycle": "designated",
+        "cycleway": "lane",
+        "highway": "tertiary",
+        "lanes": "2",
+        "name": "Ames Street",
+        "oneway": "no",
+        "parking:condition:right": "ticket",
+        "parking:lane:right": "parallel",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.0881584,
+            42.3626232
+          ],
+          [
+            -71.0881469,
+            42.3626905
+          ],
+          [
+            -71.088128,
+            42.3627951
+          ],
+          [
+            -71.0881079,
+            42.3628996
+          ],
+          [
+            -71.0880929,
+            42.3629763
+          ],
+          [
+            -71.0880755,
+            42.363039
+          ],
+          [
+            -71.0880463,
+            42.3630974
+          ],
+          [
+            -71.0880087,
+            42.3631516
+          ],
+          [
+            -71.0879597,
+            42.3632123
+          ],
+          [
+            -71.0877357,
+            42.3635091
+          ],
+          [
+            -71.0876898,
+            42.3635606
+          ],
+          [
+            -71.0874724,
+            42.3638309
+          ],
+          [
+            -71.0873963,
+            42.3639282
+          ]
+        ]
+      },
+      "id": "way/302156851"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/302156855",
+        "bicycle": "designated",
+        "condition": "fair",
+        "cycleway": "shared_lane",
+        "highway": "tertiary",
+        "lanes": "2",
+        "name": "Broadway",
+        "surface": "asphalt",
+        "width": "24.4"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.1006832,
+            42.3691875
+          ],
+          [
+            -71.100538,
+            42.36913
+          ],
+          [
+            -71.1001018,
+            42.3689581
+          ],
+          [
+            -71.099962,
+            42.368903
+          ],
+          [
+            -71.099699,
+            42.368793
+          ],
+          [
+            -71.0996087,
+            42.3687577
+          ],
+          [
+            -71.099359,
+            42.36866
+          ],
+          [
+            -71.099001,
+            42.36852
+          ],
+          [
+            -71.098185,
+            42.368201
+          ],
+          [
+            -71.097346,
+            42.36787
+          ],
+          [
+            -71.097161,
+            42.367797
+          ],
+          [
+            -71.09643,
+            42.367495
+          ],
+          [
+            -71.095419,
+            42.367111
+          ],
+          [
+            -71.0948617,
+            42.3668931
+          ],
+          [
+            -71.0942536,
+            42.3666553
+          ],
+          [
+            -71.093554,
+            42.3663818
+          ],
+          [
+            -71.0926761,
+            42.3660385
+          ],
+          [
+            -71.0921754,
+            42.3658427
+          ],
+          [
+            -71.0920658,
+            42.3657999
+          ]
+        ]
+      },
+      "id": "way/302156855"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/356124053",
+        "attribution": "Office of Geographic and Environmental Information (MassGIS)",
+        "condition": "fair",
+        "hgv": "yes",
+        "highway": "primary",
+        "lanes": "3",
+        "massgis:way_id": "147092",
+        "name": "Land Boulevard",
+        "official_name": "Edwin H. Land Boulevard",
+        "oneway": "yes",
+        "source": "massgis_import_v0.1_20071008165629",
+        "surface": "asphalt",
+        "width": "18.9"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.0786621,
+            42.363234
+          ],
+          [
+            -71.0787159,
+            42.3629955
+          ],
+          [
+            -71.0787942,
+            42.3626652
+          ]
+        ]
+      },
+      "id": "way/356124053"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/356124054",
+        "attribution": "Office of Geographic and Environmental Information (MassGIS)",
+        "condition": "good",
+        "highway": "residential",
+        "lanes": "2",
+        "massgis:ref": "0 N155",
+        "massgis:way_id": "113284",
+        "maxspeed": "25 mph",
+        "name": "Cambridge Parkway",
+        "oneway": "yes",
+        "source": "massgis_import_v0.1_20071008165629",
+        "surface": "asphalt",
+        "width": "22.9"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.0744507,
+            42.3678444
+          ],
+          [
+            -71.0742254,
+            42.3677204
+          ],
+          [
+            -71.0741688,
+            42.3676857
+          ],
+          [
+            -71.0741102,
+            42.3676405
+          ],
+          [
+            -71.0740725,
+            42.3676046
+          ],
+          [
+            -71.0740448,
+            42.3675696
+          ],
+          [
+            -71.0740279,
+            42.3675332
+          ],
+          [
+            -71.0740169,
+            42.3674924
+          ],
+          [
+            -71.0740084,
+            42.367444
+          ],
+          [
+            -71.0740064,
+            42.367409
+          ],
+          [
+            -71.0740099,
+            42.3673648
+          ],
+          [
+            -71.0740192,
+            42.3673154
+          ],
+          [
+            -71.074033,
+            42.3672713
+          ],
+          [
+            -71.0740498,
+            42.3672323
+          ],
+          [
+            -71.0740749,
+            42.3671876
+          ],
+          [
+            -71.0741032,
+            42.3671434
+          ],
+          [
+            -71.0741356,
+            42.3671016
+          ],
+          [
+            -71.0741757,
+            42.367054
+          ],
+          [
+            -71.0742309,
+            42.3669965
+          ],
+          [
+            -71.0744118,
+            42.3668082
+          ],
+          [
+            -71.0745247,
+            42.3666907
+          ],
+          [
+            -71.0760128,
+            42.3651412
+          ],
+          [
+            -71.0763877,
+            42.3647468
+          ],
+          [
+            -71.0780413,
+            42.3630412
+          ],
+          [
+            -71.0780686,
+            42.3630138
+          ],
+          [
+            -71.0780956,
+            42.3629943
+          ],
+          [
+            -71.0781302,
+            42.3629809
+          ],
+          [
+            -71.0781698,
+            42.3629752
+          ],
+          [
+            -71.0782115,
+            42.3629792
+          ],
+          [
+            -71.0782467,
+            42.3629891
+          ],
+          [
+            -71.078279,
+            42.3630038
+          ],
+          [
+            -71.0783053,
+            42.3630227
+          ],
+          [
+            -71.0783356,
+            42.3630497
+          ]
+        ]
+      },
+      "id": "way/356124054"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/356126123",
+        "attribution": "Office of Geographic and Environmental Information (MassGIS)",
+        "condition": "fair",
+        "hgv": "yes",
+        "highway": "primary",
+        "lanes": "2",
+        "massgis:way_id": "147092",
+        "name": "Land Boulevard",
+        "official_name": "Edwin H. Land Boulevard",
+        "oneway": "yes",
+        "source": "massgis_import_v0.1_20071008165629",
+        "surface": "asphalt",
+        "width": "18.9"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.0774506,
+            42.364971
+          ],
+          [
+            -71.0780814,
+            42.3643163
+          ],
+          [
+            -71.0781638,
+            42.3642245
+          ],
+          [
+            -71.0782331,
+            42.3641441
+          ],
+          [
+            -71.07831,
+            42.3640473
+          ],
+          [
+            -71.0783466,
+            42.3639974
+          ],
+          [
+            -71.0783786,
+            42.363949
+          ],
+          [
+            -71.0784083,
+            42.3639003
+          ],
+          [
+            -71.0784342,
+            42.3638533
+          ],
+          [
+            -71.07846,
+            42.3638011
+          ],
+          [
+            -71.0784828,
+            42.3637501
+          ],
+          [
+            -71.078524,
+            42.3636495
+          ],
+          [
+            -71.0785658,
+            42.3635371
+          ],
+          [
+            -71.0786621,
+            42.363234
+          ]
+        ]
+      },
+      "id": "way/356126123"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/356674425",
+        "attribution": "Office of Geographic and Environmental Information (MassGIS)",
+        "condition": "fair",
+        "cycleway": "lane",
+        "highway": "secondary",
+        "lanes": "2",
+        "massgis:ref": "0 N323",
+        "massgis:way_id": "147645",
+        "name": "Main Street",
+        "oneway": "yes",
+        "source": "massgis_import_v0.1_20071008165629",
+        "surface": "asphalt",
+        "width": "21.3"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.0838224,
+            42.3622846
+          ],
+          [
+            -71.0837303,
+            42.3622442
+          ],
+          [
+            -71.0836478,
+            42.3622115
+          ],
+          [
+            -71.0835587,
+            42.3621821
+          ],
+          [
+            -71.0834669,
+            42.3621575
+          ],
+          [
+            -71.0834003,
+            42.3621414
+          ],
+          [
+            -71.083178,
+            42.3620937
+          ],
+          [
+            -71.0830483,
+            42.3620675
+          ],
+          [
+            -71.082912,
+            42.3620421
+          ],
+          [
+            -71.0827978,
+            42.3620211
+          ]
+        ]
+      },
+      "id": "way/356674425"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/356677795",
+        "attribution": "Office of Geographic and Environmental Information (MassGIS)",
+        "condition": "fair",
+        "cycleway": "lane",
+        "highway": "secondary",
+        "lanes": "3",
+        "massgis:ref": "0 N324",
+        "massgis:way_id": "206060",
+        "maxspeed": "25 mph",
+        "maxspeed:type": "sign",
+        "name": "Broadway",
+        "oneway": "yes",
+        "sidewalk": "right",
+        "source": "massgis_import_v0.1_20071008165629",
+        "surface": "asphalt",
+        "turn:lanes": "left||",
+        "width": "24.4"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.0882845,
+            42.3644189
+          ],
+          [
+            -71.0884698,
+            42.3644963
+          ],
+          [
+            -71.0885469,
+            42.3645289
+          ],
+          [
+            -71.0891432,
+            42.3647559
+          ],
+          [
+            -71.0891871,
+            42.3647687
+          ],
+          [
+            -71.0893354,
+            42.364812
+          ]
+        ]
+      },
+      "id": "way/356677795"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/356677797",
+        "attribution": "Office of Geographic and Environmental Information (MassGIS)",
+        "bicycle": "yes",
+        "condition": "fair",
+        "cycleway": "lane",
+        "highway": "secondary",
+        "lanes": "2",
+        "massgis:ref": "0 N324",
+        "massgis:way_id": "206060",
+        "name": "Broadway",
+        "note": "Changed road configuration due to Longfellow construction.",
+        "oneway": "yes",
+        "source": "massgis_import_v0.1_20071008165629",
+        "surface": "asphalt",
+        "width": "24.4"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.0844086,
+            42.3626504
+          ],
+          [
+            -71.084253,
+            42.3625512
+          ],
+          [
+            -71.0841515,
+            42.3624895
+          ],
+          [
+            -71.0840416,
+            42.3624178
+          ],
+          [
+            -71.0839262,
+            42.3623447
+          ],
+          [
+            -71.0838224,
+            42.3622846
+          ]
+        ]
+      },
+      "id": "way/356677797"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/356677798",
+        "attribution": "Office of Geographic and Environmental Information (MassGIS)",
+        "condition": "fair",
+        "cycleway": "lane",
+        "highway": "secondary",
+        "lanes": "2",
+        "massgis:ref": "0 N324",
+        "massgis:way_id": "206060",
+        "name": "Broadway",
+        "oneway": "yes",
+        "source": "massgis_import_v0.1_20071008165629",
+        "surface": "asphalt",
+        "width": "24.4"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.0837455,
+            42.3623568
+          ],
+          [
+            -71.0838147,
+            42.3623935
+          ],
+          [
+            -71.0838909,
+            42.3624386
+          ],
+          [
+            -71.084191,
+            42.3626403
+          ],
+          [
+            -71.0843176,
+            42.3627195
+          ]
+        ]
+      },
+      "id": "way/356677798"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/356678461",
+        "attribution": "Office of Geographic and Environmental Information (MassGIS)",
+        "condition": "fair",
+        "cycleway:right": "lane",
+        "highway": "secondary",
+        "lanes": "1",
+        "massgis:ref": "0 N323",
+        "massgis:way_id": "147645",
+        "name": "Main Street",
+        "oneway": "yes",
+        "source": "massgis_import_v0.1_20071008165629",
+        "surface": "asphalt",
+        "width": "21.3"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.0881669,
+            42.3625586
+          ],
+          [
+            -71.0879984,
+            42.3625454
+          ],
+          [
+            -71.0871228,
+            42.3624759
+          ],
+          [
+            -71.0870814,
+            42.3624726
+          ],
+          [
+            -71.0862604,
+            42.3624095
+          ],
+          [
+            -71.0861567,
+            42.3624019
+          ],
+          [
+            -71.0860376,
+            42.3623925
+          ],
+          [
+            -71.085167,
+            42.362326
+          ],
+          [
+            -71.0850211,
+            42.3623099
+          ],
+          [
+            -71.0849092,
+            42.3622976
+          ],
+          [
+            -71.0847306,
+            42.3622759
+          ],
+          [
+            -71.084223,
+            42.3622044
+          ],
+          [
+            -71.0841325,
+            42.3622015
+          ],
+          [
+            -71.0840639,
+            42.3622008
+          ],
+          [
+            -71.0840032,
+            42.3622068
+          ],
+          [
+            -71.0839448,
+            42.3622175
+          ],
+          [
+            -71.0838974,
+            42.3622341
+          ],
+          [
+            -71.0838571,
+            42.3622573
+          ],
+          [
+            -71.0838224,
+            42.3622846
+          ]
+        ]
+      },
+      "id": "way/356678461"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/356678546",
+        "attribution": "Office of Geographic and Environmental Information (MassGIS)",
+        "bicycle": "yes",
+        "condition": "fair",
+        "cycleway:left": "lane",
+        "cycleway:right": "opposite",
+        "highway": "secondary",
+        "lanes": "1",
+        "massgis:ref": "0 N323",
+        "massgis:way_id": "147645",
+        "name": "Main Street",
+        "oneway": "yes",
+        "source": "massgis_import_v0.1_20071008165629"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.0793745,
+            42.3618909
+          ],
+          [
+            -71.079781,
+            42.3619207
+          ],
+          [
+            -71.0815153,
+            42.3620623
+          ],
+          [
+            -71.0823798,
+            42.3621243
+          ],
+          [
+            -71.0830222,
+            42.3621793
+          ]
+        ]
+      },
+      "id": "way/356678546"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/356679644",
+        "alt_name": "Broadway",
+        "attribution": "Office of Geographic and Environmental Information (MassGIS)",
+        "condition": "fair",
+        "cycleway": "lane",
+        "highway": "secondary",
+        "lanes": "1",
+        "massgis:ref": "0 N323",
+        "massgis:way_id": "147645",
+        "name": "Main Street",
+        "note": "Construction project will end on 01/06/2018",
+        "oneway": "yes",
+        "source": "massgis_import_v0.1_20071008165629"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.0797991,
+            42.3619642
+          ],
+          [
+            -71.0821253,
+            42.3621427
+          ]
+        ]
+      },
+      "id": "way/356679644"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/356867803",
+        "attribution": "Office of Geographic and Environmental Information (MassGIS)",
+        "condition": "fair",
+        "construction": "trunk",
+        "cycleway": "lane",
+        "foot": "yes",
+        "highway": "secondary",
+        "lanes": "1",
+        "massgis:ref": "0 N323",
+        "massgis:way_id": "147645",
+        "motor_vehicle": "yes",
+        "name": "Main Street",
+        "oneway": "yes",
+        "source": "massgis_import_v0.1_20071008165629"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.0801729,
+            42.3617919
+          ],
+          [
+            -71.0797523,
+            42.3617617
+          ]
+        ]
+      },
+      "id": "way/356867803"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/370197761",
+        "attribution": "Office of Geographic and Environmental Information (MassGIS)",
+        "condition": "fair",
+        "cycleway:right": "lane",
+        "highway": "secondary",
+        "lanes": "1",
+        "massgis:ref": "0 N323",
+        "massgis:way_id": "147645",
+        "name": "Main Street",
+        "oneway": "yes",
+        "source": "massgis_import_v0.1_20071008165629",
+        "surface": "asphalt",
+        "width": "21.3"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.0881584,
+            42.3626232
+          ],
+          [
+            -71.0883758,
+            42.3626364
+          ],
+          [
+            -71.0888452,
+            42.3626678
+          ],
+          [
+            -71.088904,
+            42.3626738
+          ],
+          [
+            -71.088954,
+            42.3626815
+          ],
+          [
+            -71.0890489,
+            42.3626973
+          ],
+          [
+            -71.0891006,
+            42.3627042
+          ],
+          [
+            -71.0891604,
+            42.3627096
+          ],
+          [
+            -71.0892147,
+            42.3627132
+          ]
+        ]
+      },
+      "id": "way/370197761"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/383593826",
+        "attribution": "Office of Geographic and Environmental Information (MassGIS)",
+        "condition": "fair",
+        "cycleway": "lane",
+        "hazmat": "designated",
+        "highway": "secondary",
+        "lanes": "2",
+        "massgis:way_id": "146255",
+        "name": "Galileo Galilei Way",
+        "oneway": "yes",
+        "source": "massgis_import_v0.1_20071008165629",
+        "surface": "asphalt",
+        "width": "12.2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.0879465,
+            42.366335
+          ],
+          [
+            -71.0877895,
+            42.3663205
+          ]
+        ]
+      },
+      "id": "way/383593826"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/383593827",
+        "attribution": "Office of Geographic and Environmental Information (MassGIS)",
+        "condition": "fair",
+        "cycleway:right": "lane",
+        "hazmat": "designated",
+        "highway": "secondary",
+        "lanes": "2",
+        "massgis:way_id": "146255",
+        "name": "Galileo Galilei Way",
+        "oneway": "yes",
+        "source": "massgis_import_v0.1_20071008165629",
+        "surface": "asphalt",
+        "width": "12.2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.0878245,
+            42.3664324
+          ],
+          [
+            -71.0879266,
+            42.3664387
+          ],
+          [
+            -71.08809,
+            42.3664371
+          ]
+        ]
+      },
+      "id": "way/383593827"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/383593828",
+        "highway": "secondary",
+        "name": "Binney Street",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.08809,
+            42.3664371
+          ],
+          [
+            -71.0880544,
+            42.3663867
+          ],
+          [
+            -71.0880422,
+            42.3663734
+          ],
+          [
+            -71.0880267,
+            42.3663616
+          ],
+          [
+            -71.0880077,
+            42.3663525
+          ],
+          [
+            -71.0879465,
+            42.366335
+          ]
+        ]
+      },
+      "id": "way/383593828"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/384300258",
+        "attribution": "Office of Geographic and Environmental Information (MassGIS)",
+        "condition": "deficient",
+        "cycleway": "lane",
+        "highway": "secondary",
+        "lanes": "2",
+        "massgis:way_id": "110569",
+        "name": "Binney Street",
+        "oneway": "yes",
+        "source": "massgis_import_v0.1_20071008165629",
+        "surface": "asphalt",
+        "width": "14.9"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.0774506,
+            42.364971
+          ],
+          [
+            -71.0772952,
+            42.3648862
+          ]
+        ]
+      },
+      "id": "way/384300258"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/384300260",
+        "attribution": "Office of Geographic and Environmental Information (MassGIS)",
+        "bicycle": "designated",
+        "condition": "fair",
+        "cycleway": "lane",
+        "hazmat": "designated",
+        "highway": "tertiary",
+        "lanes": "2",
+        "massgis:way_id": "187849",
+        "name": "First Street",
+        "source": "massgis_import_v0.1_20071008165629",
+        "surface": "asphalt",
+        "width": "14.3"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.0782211,
+            42.3650954
+          ],
+          [
+            -71.0781974,
+            42.3651968
+          ],
+          [
+            -71.0780373,
+            42.3658801
+          ],
+          [
+            -71.0778774,
+            42.3665632
+          ],
+          [
+            -71.0777224,
+            42.3672248
+          ]
+        ]
+      },
+      "id": "way/384300260"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/384300263",
+        "attribution": "Office of Geographic and Environmental Information (MassGIS)",
+        "condition": "fair",
+        "hgv": "yes",
+        "highway": "primary",
+        "lanes": "3",
+        "massgis:ref": "0 N337",
+        "massgis:way_id": "147092",
+        "name": "Land Boulevard",
+        "official_name": "Edwin H. Land Boulevard",
+        "old_ref": "SR 3",
+        "oneway": "yes",
+        "source": "massgis_import_v0.1_20071008165629",
+        "surface": "asphalt",
+        "width": "18.9"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.0779416,
+            42.3642286
+          ],
+          [
+            -71.0778622,
+            42.3643007
+          ],
+          [
+            -71.0777838,
+            42.3643768
+          ],
+          [
+            -71.0777368,
+            42.3644258
+          ]
+        ]
+      },
+      "id": "way/384300263"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/384300266",
+        "attribution": "Office of Geographic and Environmental Information (MassGIS)",
+        "condition": "fair",
+        "hgv": "yes",
+        "highway": "primary",
+        "lanes": "3",
+        "massgis:way_id": "147092",
+        "name": "Land Boulevard",
+        "official_name": "Edwin H. Land Boulevard",
+        "oneway": "yes",
+        "source": "massgis_import_v0.1_20071008165629",
+        "surface": "asphalt",
+        "turn:lanes": "||right",
+        "width": "18.9"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.0767703,
+            42.3657096
+          ],
+          [
+            -71.0768223,
+            42.3656423
+          ],
+          [
+            -71.0769159,
+            42.365533
+          ],
+          [
+            -71.0769877,
+            42.3654504
+          ],
+          [
+            -71.0773702,
+            42.3650531
+          ]
+        ]
+      },
+      "id": "way/384300266"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/384306519",
+        "bicycle": "designated",
+        "cycleway": "lane",
+        "highway": "tertiary",
+        "lanes": "2",
+        "maxspeed": "25 mph",
+        "maxspeed:type": "sign",
+        "name": "Ames Street",
+        "oneway": "no",
+        "parking:condition:right": "ticket",
+        "parking:lane:right": "parallel",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.0873963,
+            42.3639282
+          ],
+          [
+            -71.0873319,
+            42.3640097
+          ]
+        ]
+      },
+      "id": "way/384306519"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/384306520",
+        "attribution": "Office of Geographic and Environmental Information (MassGIS)",
+        "condition": "fair",
+        "cycleway": "lane",
+        "highway": "secondary",
+        "lanes": "1",
+        "massgis:ref": "0 N324",
+        "massgis:way_id": "206060",
+        "maxspeed": "25 mph",
+        "name": "Broadway",
+        "oneway": "yes",
+        "sidewalk": "right",
+        "source": "massgis_import_v0.1_20071008165629",
+        "surface": "asphalt",
+        "width": "24.4"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.0843176,
+            42.3627195
+          ],
+          [
+            -71.0843409,
+            42.3627328
+          ],
+          [
+            -71.0843924,
+            42.3627581
+          ],
+          [
+            -71.084445,
+            42.3627823
+          ],
+          [
+            -71.0851231,
+            42.3630707
+          ]
+        ]
+      },
+      "id": "way/384306520"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/384306521",
+        "attribution": "Office of Geographic and Environmental Information (MassGIS)",
+        "bicycle": "yes",
+        "condition": "fair",
+        "cycleway": "lane",
+        "highway": "secondary",
+        "lanes": "1",
+        "massgis:ref": "0 N324",
+        "massgis:way_id": "206060",
+        "maxspeed": "25 mph",
+        "name": "Broadway",
+        "note": "Changed road configuration due to Longfellow construction.",
+        "oneway": "yes",
+        "sidewalk": "right",
+        "source": "massgis_import_v0.1_20071008165629",
+        "surface": "asphalt",
+        "width": "24.4"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.0873963,
+            42.3639282
+          ],
+          [
+            -71.0873359,
+            42.363905
+          ],
+          [
+            -71.087253,
+            42.3638732
+          ],
+          [
+            -71.086308,
+            42.3634642
+          ],
+          [
+            -71.0859256,
+            42.363305
+          ],
+          [
+            -71.0855886,
+            42.3631648
+          ]
+        ]
+      },
+      "id": "way/384306521"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/426493065",
+        "attribution": "Office of Geographic and Environmental Information (MassGIS)",
+        "condition": "fair",
+        "cycleway": "lane",
+        "highway": "tertiary",
+        "lanes": "2",
+        "massgis:ref": "0 N324",
+        "massgis:way_id": "206060",
+        "maxspeed": "25 mph",
+        "maxspeed:type": "sign",
+        "name": "Broadway",
+        "source": "massgis_import_v0.1_20071008165629",
+        "surface": "asphalt",
+        "width": "24.4"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.0911377,
+            42.365437
+          ],
+          [
+            -71.0912996,
+            42.3655003
+          ],
+          [
+            -71.0919887,
+            42.3657698
+          ],
+          [
+            -71.0920658,
+            42.3657999
+          ]
+        ]
+      },
+      "id": "way/426493065"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/426493068",
+        "attribution": "Office of Geographic and Environmental Information (MassGIS)",
+        "condition": "fair",
+        "cycleway": "lane",
+        "highway": "tertiary",
+        "lanes": "2",
+        "massgis:ref": "0 N324",
+        "massgis:way_id": "206060",
+        "maxspeed": "25 mph",
+        "maxspeed:type": "sign",
+        "name": "Broadway",
+        "source": "massgis_import_v0.1_20071008165629",
+        "surface": "asphalt",
+        "width": "24.4"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.0901203,
+            42.3650642
+          ],
+          [
+            -71.0905934,
+            42.3652341
+          ]
+        ]
+      },
+      "id": "way/426493068"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/426493071",
+        "attribution": "Office of Geographic and Environmental Information (MassGIS)",
+        "condition": "fair",
+        "cycleway": "lane",
+        "highway": "tertiary",
+        "lanes": "4",
+        "lanes:backward": "1",
+        "lanes:forward": "3",
+        "massgis:ref": "0 N324",
+        "massgis:way_id": "206060",
+        "maxspeed": "25 mph",
+        "maxspeed:type": "sign",
+        "name": "Broadway",
+        "source": "massgis_import_v0.1_20071008165629",
+        "surface": "asphalt",
+        "turn:lanes:forward": "left|through|right",
+        "width": "24.4"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.0905934,
+            42.3652341
+          ],
+          [
+            -71.0909634,
+            42.365372
+          ],
+          [
+            -71.0911377,
+            42.365437
+          ]
+        ]
+      },
+      "id": "way/426493071"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/426493074",
+        "attribution": "Office of Geographic and Environmental Information (MassGIS)",
+        "condition": "fair",
+        "cycleway": "lane",
+        "highway": "secondary",
+        "lanes": "2",
+        "massgis:ref": "0 N324",
+        "massgis:way_id": "206060",
+        "maxspeed": "25 mph",
+        "name": "Broadway",
+        "oneway": "yes",
+        "sidewalk": "right",
+        "source": "massgis_import_v0.1_20071008165629",
+        "surface": "asphalt",
+        "turn:lanes": "left|through",
+        "width": "24.4"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.0866469,
+            42.3637153
+          ],
+          [
+            -71.0871931,
+            42.3639496
+          ],
+          [
+            -71.0872576,
+            42.3639777
+          ],
+          [
+            -71.0873319,
+            42.3640097
+          ]
+        ]
+      },
+      "id": "way/426493074"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/426493078",
+        "attribution": "Office of Geographic and Environmental Information (MassGIS)",
+        "condition": "fair",
+        "cycleway": "lane",
+        "highway": "secondary",
+        "lanes": "1",
+        "massgis:ref": "0 N324",
+        "massgis:way_id": "206060",
+        "maxspeed": "25 mph",
+        "maxspeed:type": "sign",
+        "name": "Broadway",
+        "oneway": "yes",
+        "sidewalk": "right",
+        "source": "massgis_import_v0.1_20071008165629",
+        "surface": "asphalt",
+        "width": "24.4"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.0893354,
+            42.364812
+          ],
+          [
+            -71.0894626,
+            42.3648462
+          ],
+          [
+            -71.0895797,
+            42.3648777
+          ],
+          [
+            -71.0896646,
+            42.3649006
+          ]
+        ]
+      },
+      "id": "way/426493078"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/426493082",
+        "attribution": "Office of Geographic and Environmental Information (MassGIS)",
+        "condition": "fair",
+        "cycleway": "lane",
+        "highway": "secondary",
+        "lanes": "1",
+        "massgis:ref": "0 N324",
+        "massgis:way_id": "206060",
+        "maxspeed": "25 mph",
+        "maxspeed:type": "sign",
+        "name": "Broadway",
+        "oneway": "yes",
+        "sidewalk": "right",
+        "source": "massgis_import_v0.1_20071008165629",
+        "surface": "asphalt",
+        "width": "24.4"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.0873319,
+            42.3640097
+          ],
+          [
+            -71.0875298,
+            42.3640974
+          ],
+          [
+            -71.0880978,
+            42.3643416
+          ],
+          [
+            -71.0881729,
+            42.3643722
+          ],
+          [
+            -71.0882845,
+            42.3644189
+          ]
+        ]
+      },
+      "id": "way/426493082"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/426493085",
+        "attribution": "Office of Geographic and Environmental Information (MassGIS)",
+        "condition": "fair",
+        "cycleway": "lane",
+        "hazmat": "designated",
+        "highway": "secondary",
+        "lanes": "3",
+        "massgis:way_id": "146255",
+        "maxspeed": "25 mph",
+        "maxspeed:type": "sign",
+        "name": "Galileo Galilei Way",
+        "oneway": "yes",
+        "source": "massgis_import_v0.1_20071008165629",
+        "surface": "asphalt",
+        "turn:lanes": "left||",
+        "width": "12.2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.0895796,
+            42.3638764
+          ],
+          [
+            -71.0894905,
+            42.3642061
+          ],
+          [
+            -71.0893532,
+            42.3647385
+          ]
+        ]
+      },
+      "id": "way/426493085"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/426493088",
+        "attribution": "Office of Geographic and Environmental Information (MassGIS)",
+        "condition": "fair",
+        "cycleway": "lane",
+        "hazmat": "designated",
+        "highway": "secondary",
+        "lanes": "3",
+        "massgis:way_id": "146255",
+        "maxspeed": "25 mph",
+        "maxspeed:type": "sign",
+        "name": "Galileo Galilei Way",
+        "oneway": "yes",
+        "source": "massgis_import_v0.1_20071008165629",
+        "surface": "asphalt",
+        "turn:lanes": "left|through|right",
+        "width": "12.2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.0892574,
+            42.36564
+          ],
+          [
+            -71.089272,
+            42.3655731
+          ],
+          [
+            -71.0894244,
+            42.364992
+          ],
+          [
+            -71.0894626,
+            42.3648462
+          ]
+        ]
+      },
+      "id": "way/426493088"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/426493091",
+        "attribution": "Office of Geographic and Environmental Information (MassGIS)",
+        "condition": "fair",
+        "cycleway": "lane",
+        "hazmat": "designated",
+        "highway": "secondary",
+        "lanes": "3",
+        "massgis:way_id": "146255",
+        "maxspeed": "25 mph",
+        "maxspeed:type": "sign",
+        "name": "Galileo Galilei Way",
+        "oneway": "yes",
+        "source": "massgis_import_v0.1_20071008165629",
+        "surface": "asphalt",
+        "turn:lanes": "left||right",
+        "width": "12.2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.0898801,
+            42.3632051
+          ],
+          [
+            -71.0899703,
+            42.3628587
+          ],
+          [
+            -71.0899744,
+            42.362812
+          ],
+          [
+            -71.0899757,
+            42.3627556
+          ],
+          [
+            -71.0899824,
+            42.3626979
+          ],
+          [
+            -71.089977,
+            42.362623
+          ]
+        ]
+      },
+      "id": "way/426493091"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/426493094",
+        "attribution": "Office of Geographic and Environmental Information (MassGIS)",
+        "condition": "fair",
+        "cycleway": "lane",
+        "hazmat": "designated",
+        "highway": "secondary",
+        "lanes": "2",
+        "massgis:way_id": "146255",
+        "maxspeed": "25 mph",
+        "maxspeed:type": "sign",
+        "name": "Galileo Galilei Way",
+        "oneway": "yes",
+        "source": "massgis_import_v0.1_20071008165629",
+        "surface": "asphalt",
+        "turn:lanes": "|merge_to_left",
+        "width": "12.2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.0894745,
+            42.3648023
+          ],
+          [
+            -71.0896162,
+            42.3642862
+          ],
+          [
+            -71.0896414,
+            42.3641696
+          ]
+        ]
+      },
+      "id": "way/426493094"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/426493097",
+        "attribution": "Office of Geographic and Environmental Information (MassGIS)",
+        "condition": "fair",
+        "cycleway": "lane",
+        "hazmat": "designated",
+        "highway": "secondary",
+        "lanes": "2",
+        "massgis:way_id": "146255",
+        "maxspeed": "25 mph",
+        "maxspeed:type": "sign",
+        "name": "Galileo Galilei Way",
+        "oneway": "yes",
+        "source": "massgis_import_v0.1_20071008165629",
+        "surface": "asphalt",
+        "width": "12.2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.089977,
+            42.362623
+          ],
+          [
+            -71.0898872,
+            42.362693
+          ],
+          [
+            -71.0898831,
+            42.3627515
+          ],
+          [
+            -71.0898618,
+            42.3628187
+          ],
+          [
+            -71.0898376,
+            42.3628989
+          ],
+          [
+            -71.0895796,
+            42.3638764
+          ]
+        ]
+      },
+      "id": "way/426493097"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/426493103",
+        "attribution": "Office of Geographic and Environmental Information (MassGIS)",
+        "condition": "fair",
+        "cycleway": "lane",
+        "highway": "tertiary",
+        "lanes": "3",
+        "lanes:backward": "2",
+        "lanes:forward": "1",
+        "massgis:ref": "0 N324",
+        "massgis:way_id": "166947",
+        "maxspeed": "25 mph",
+        "maxspeed:type": "sign",
+        "name": "Hampshire Street",
+        "source": "massgis_import_v0.1_20071008165629",
+        "surface": "asphalt",
+        "turn:lanes:backward": "left|through;right",
+        "width": "20.7"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.0911377,
+            42.365437
+          ],
+          [
+            -71.0910574,
+            42.3655392
+          ],
+          [
+            -71.0910454,
+            42.365553
+          ],
+          [
+            -71.0910282,
+            42.3656037
+          ],
+          [
+            -71.0910282,
+            42.3656481
+          ],
+          [
+            -71.0910454,
+            42.3656861
+          ],
+          [
+            -71.0910559,
+            42.3656981
+          ],
+          [
+            -71.0910883,
+            42.3657242
+          ],
+          [
+            -71.0911516,
+            42.3657763
+          ]
+        ]
+      },
+      "id": "way/426493103"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/426493107",
+        "attribution": "Office of Geographic and Environmental Information (MassGIS)",
+        "condition": "fair",
+        "cycleway:right": "lane",
+        "highway": "secondary",
+        "lanes": "2",
+        "massgis:ref": "0 N323",
+        "massgis:way_id": "147645",
+        "maxspeed": "25 mph",
+        "maxspeed:type": "sign",
+        "name": "Main Street",
+        "oneway": "yes",
+        "source": "massgis_import_v0.1_20071008165629",
+        "surface": "asphalt",
+        "turn:lanes": "left|through;right",
+        "width": "21.3"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.0892147,
+            42.3627132
+          ],
+          [
+            -71.0896936,
+            42.3627446
+          ],
+          [
+            -71.0897368,
+            42.362745
+          ],
+          [
+            -71.0898831,
+            42.3627515
+          ],
+          [
+            -71.0899757,
+            42.3627556
+          ],
+          [
+            -71.0901436,
+            42.3627256
+          ]
+        ]
+      },
+      "id": "way/426493107"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/426493110",
+        "attribution": "Office of Geographic and Environmental Information (MassGIS)",
+        "cycleway": "lane",
+        "hazmat": "designated",
+        "highway": "secondary",
+        "lanes": "3",
+        "lanes:backward": "1",
+        "lanes:forward": "2",
+        "massgis:ref": "0 N323",
+        "massgis:way_id": "147645",
+        "maxspeed": "25 mph",
+        "maxspeed:type": "sign",
+        "name": "Main Street",
+        "source": "massgis_import_v0.1_20071008165629",
+        "surface": "asphalt",
+        "turn:lanes:forward": "left|through;right",
+        "width": "21.3"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.0908044,
+            42.362771
+          ],
+          [
+            -71.090776,
+            42.362769
+          ],
+          [
+            -71.0902608,
+            42.3627311
+          ],
+          [
+            -71.0902135,
+            42.3627283
+          ],
+          [
+            -71.0901868,
+            42.3627274
+          ],
+          [
+            -71.0901436,
+            42.3627256
+          ]
+        ]
+      },
+      "id": "way/426493110"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/426493113",
+        "attribution": "Office of Geographic and Environmental Information (MassGIS)",
+        "condition": "fair",
+        "cycleway:both": "no",
+        "highway": "tertiary",
+        "lanes": "2",
+        "massgis:way_id": "133479",
+        "maxspeed": "25 mph",
+        "maxspeed:type": "sign",
+        "name": "Portland Street",
+        "source": "massgis_import_v0.1_20071008165629",
+        "surface": "asphalt",
+        "width": "14.9"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.0919471,
+            42.3659977
+          ],
+          [
+            -71.0919058,
+            42.3660659
+          ]
+        ]
+      },
+      "id": "way/426493113"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/426493116",
+        "attribution": "Office of Geographic and Environmental Information (MassGIS)",
+        "condition": "fair",
+        "cycleway:both": "no",
+        "highway": "tertiary",
+        "lanes": "3",
+        "lanes:backward": "2",
+        "lanes:forward": "1",
+        "massgis:way_id": "133479",
+        "maxspeed": "25 mph",
+        "maxspeed:type": "sign",
+        "name": "Portland Street",
+        "source": "massgis_import_v0.1_20071008165629",
+        "surface": "asphalt",
+        "turn:lanes:backward": "left|",
+        "width": "14.9"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.0920658,
+            42.3657999
+          ],
+          [
+            -71.0920197,
+            42.3658767
+          ],
+          [
+            -71.0919471,
+            42.3659977
+          ]
+        ]
+      },
+      "id": "way/426493116"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/426493119",
+        "attribution": "Office of Geographic and Environmental Information (MassGIS)",
+        "condition": "fair",
+        "highway": "tertiary",
+        "lanes": "3",
+        "lanes:backward": "1",
+        "lanes:forward": "2",
+        "massgis:way_id": "133479",
+        "maxspeed": "25 mph",
+        "maxspeed:type": "sign",
+        "name": "Portland Street",
+        "source": "massgis_import_v0.1_20071008165629",
+        "surface": "asphalt",
+        "turn:lanes:forward": "left|through;right",
+        "width": "14.9"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.0924357,
+            42.3651431
+          ],
+          [
+            -71.092123,
+            42.3656984
+          ],
+          [
+            -71.0920658,
+            42.3657999
+          ]
+        ]
+      },
+      "id": "way/426493119"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/426493121",
+        "attribution": "Office of Geographic and Environmental Information (MassGIS)",
+        "condition": "fair",
+        "cycleway:both": "no",
+        "highway": "tertiary",
+        "lanes": "3",
+        "lanes:backward": "1",
+        "lanes:forward": "2",
+        "massgis:way_id": "133479",
+        "maxspeed": "25 mph",
+        "maxspeed:type": "sign",
+        "name": "Portland Street",
+        "source": "massgis_import_v0.1_20071008165629",
+        "surface": "asphalt",
+        "turn:lanes:forward": "left|",
+        "width": "14.9"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.0919058,
+            42.3660659
+          ],
+          [
+            -71.0918191,
+            42.3662087
+          ],
+          [
+            -71.0917717,
+            42.3662868
+          ]
+        ]
+      },
+      "id": "way/426493121"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/426496420",
+        "attribution": "Office of Geographic and Environmental Information (MassGIS)",
+        "condition": "deficient",
+        "cycleway:right": "track",
+        "hazmat": "designated",
+        "highway": "secondary",
+        "lanes": "3",
+        "massgis:way_id": "110569",
+        "name": "Binney Street",
+        "oneway": "yes",
+        "source": "massgis_import_v0.1_20071008165629",
+        "surface": "asphalt",
+        "turn:lanes": "left||",
+        "width": "14.9"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.0813737,
+            42.3656048
+          ],
+          [
+            -71.0823709,
+            42.3657342
+          ]
+        ]
+      },
+      "id": "way/426496420"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/426496423",
+        "attribution": "Office of Geographic and Environmental Information (MassGIS)",
+        "condition": "deficient",
+        "cycleway": "lane",
+        "hazmat": "designated",
+        "highway": "secondary",
+        "lanes": "3",
+        "massgis:way_id": "110569",
+        "name": "Binney Street",
+        "oneway": "yes",
+        "source": "massgis_import_v0.1_20071008165629",
+        "surface": "asphalt",
+        "turn:lanes": "left||",
+        "width": "14.9"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.0834053,
+            42.3657576
+          ],
+          [
+            -71.0824513,
+            42.3656342
+          ]
+        ]
+      },
+      "id": "way/426496423"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/426496427",
+        "attribution": "Office of Geographic and Environmental Information (MassGIS)",
+        "condition": "deficient",
+        "cycleway:right": "lane",
+        "hazmat": "designated",
+        "highway": "secondary",
+        "massgis:way_id": "110569",
+        "name": "Binney Street",
+        "oneway": "yes",
+        "source": "massgis_import_v0.1_20071008165629",
+        "surface": "asphalt",
+        "width": "14.9"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.0866225,
+            42.3662856
+          ],
+          [
+            -71.0867351,
+            42.3663
+          ]
+        ]
+      },
+      "id": "way/426496427"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/426496430",
+        "attribution": "Office of Geographic and Environmental Information (MassGIS)",
+        "condition": "deficient",
+        "cycleway": "lane",
+        "hazmat": "designated",
+        "highway": "secondary",
+        "lanes": "3",
+        "massgis:way_id": "110569",
+        "name": "Binney Street",
+        "oneway": "yes",
+        "source": "massgis_import_v0.1_20071008165629",
+        "surface": "asphalt",
+        "turn:lanes": "left||",
+        "width": "14.9"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.0803275,
+            42.3653664
+          ],
+          [
+            -71.0798771,
+            42.3653096
+          ]
+        ]
+      },
+      "id": "way/426496430"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/426496433",
+        "attribution": "Office of Geographic and Environmental Information (MassGIS)",
+        "condition": "deficient",
+        "cycleway:right": "track",
+        "hazmat": "designated",
+        "highway": "secondary",
+        "lanes": "3",
+        "massgis:way_id": "110569",
+        "name": "Binney Street",
+        "oneway": "yes",
+        "source": "massgis_import_v0.1_20071008165629",
+        "surface": "asphalt",
+        "turn:lanes": "left||",
+        "width": "14.9"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.0794129,
+            42.3653515
+          ],
+          [
+            -71.0798549,
+            42.3654077
+          ]
+        ]
+      },
+      "id": "way/426496433"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/426496436",
+        "attribution": "Office of Geographic and Environmental Information (MassGIS)",
+        "condition": "deficient",
+        "cycleway:right": "lane",
+        "hazmat": "designated",
+        "highway": "secondary",
+        "lanes": "2",
+        "massgis:way_id": "110569",
+        "maxspeed": "25 mph",
+        "name": "Binney Street",
+        "oneway": "yes",
+        "source": "massgis_import_v0.1_20071008165629",
+        "surface": "asphalt",
+        "width": "14.9"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.0867351,
+            42.3663
+          ],
+          [
+            -71.087716,
+            42.3664199
+          ],
+          [
+            -71.0878245,
+            42.3664324
+          ]
+        ]
+      },
+      "id": "way/426496436"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/426496439",
+        "attribution": "Office of Geographic and Environmental Information (MassGIS)",
+        "bicycle": "yes",
+        "condition": "fair",
+        "cycleway": "lane",
+        "highway": "secondary",
+        "lanes": "2",
+        "massgis:ref": "0 N324",
+        "massgis:way_id": "206060",
+        "maxspeed": "25 mph",
+        "name": "Broadway",
+        "note": "Changed road configuration due to Longfellow construction.",
+        "oneway": "yes",
+        "sidewalk": "right",
+        "source": "massgis_import_v0.1_20071008165629",
+        "surface": "asphalt",
+        "turn:lanes": "left|",
+        "width": "24.4"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.0855886,
+            42.3631648
+          ],
+          [
+            -71.085107,
+            42.3629643
+          ]
+        ]
+      },
+      "id": "way/426496439"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/426496446",
+        "attribution": "Office of Geographic and Environmental Information (MassGIS)",
+        "bicycle": "yes",
+        "condition": "fair",
+        "cycleway": "lane",
+        "highway": "secondary",
+        "lanes": "3",
+        "massgis:ref": "0 N324",
+        "massgis:way_id": "206060",
+        "maxspeed": "25 mph",
+        "name": "Broadway",
+        "note": "Changed road configuration due to Longfellow construction.",
+        "oneway": "yes",
+        "source": "massgis_import_v0.1_20071008165629",
+        "surface": "asphalt",
+        "turn:lanes": "left|through|through",
+        "width": "24.4"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.085107,
+            42.3629643
+          ],
+          [
+            -71.0845056,
+            42.362701
+          ],
+          [
+            -71.0844572,
+            42.362677
+          ],
+          [
+            -71.0844086,
+            42.3626504
+          ]
+        ]
+      },
+      "id": "way/426496446"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/426496452",
+        "attribution": "Office of Geographic and Environmental Information (MassGIS)",
+        "condition": "fair",
+        "cycleway": "lane",
+        "highway": "secondary",
+        "lanes": "2",
+        "massgis:way_id": "182982",
+        "name": "Third Street",
+        "source": "massgis_import_v0.1_20071008165629",
+        "surface": "asphalt",
+        "width": "18.6"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.0844086,
+            42.3626504
+          ],
+          [
+            -71.0843176,
+            42.3627195
+          ]
+        ]
+      },
+      "id": "way/426496452"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/426496456",
+        "attribution": "Office of Geographic and Environmental Information (MassGIS)",
+        "condition": "fair",
+        "cycleway": "lane",
+        "highway": "secondary",
+        "lanes": "3",
+        "lanes:backward": "1",
+        "lanes:forward": "2",
+        "massgis:way_id": "182982",
+        "maxspeed": "25 mph",
+        "name": "Third Street",
+        "source": "massgis_import_v0.1_20071008165629",
+        "surface": "asphalt",
+        "turn:lanes:forward": "left;through|right",
+        "width": "18.6"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.0827235,
+            42.3651668
+          ],
+          [
+            -71.0824513,
+            42.3656342
+          ]
+        ]
+      },
+      "id": "way/426496456"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/426496459",
+        "attribution": "Office of Geographic and Environmental Information (MassGIS)",
+        "condition": "fair",
+        "cycleway": "lane",
+        "highway": "secondary",
+        "lanes": "2",
+        "massgis:way_id": "182982",
+        "name": "Third Street",
+        "source": "massgis_import_v0.1_20071008165629",
+        "surface": "asphalt",
+        "width": "18.6"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.0824513,
+            42.3656342
+          ],
+          [
+            -71.0823709,
+            42.3657342
+          ]
+        ]
+      },
+      "id": "way/426496459"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/426496461",
+        "attribution": "Office of Geographic and Environmental Information (MassGIS)",
+        "condition": "fair",
+        "cycleway": "lane",
+        "highway": "secondary",
+        "lanes": "3",
+        "lanes:backward": "2",
+        "lanes:forward": "1",
+        "massgis:way_id": "182982",
+        "maxspeed": "25 mph",
+        "name": "Third Street",
+        "source": "massgis_import_v0.1_20071008165629",
+        "surface": "asphalt",
+        "turn:lanes:backward": "left|right",
+        "width": "18.6"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.0843176,
+            42.3627195
+          ],
+          [
+            -71.0842276,
+            42.3627934
+          ],
+          [
+            -71.083919,
+            42.363191
+          ],
+          [
+            -71.0838463,
+            42.3632839
+          ]
+        ]
+      },
+      "id": "way/426496461"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/426625057",
+        "attribution": "Office of Geographic and Environmental Information (MassGIS)",
+        "bicycle": "designated",
+        "condition": "fair",
+        "cycleway": "track",
+        "highway": "secondary",
+        "lanes": "3",
+        "lanes:backward": "1",
+        "lanes:forward": "2",
+        "massgis:way_id": "128520",
+        "maxspeed": "25 mph",
+        "maxspeed:type": "sign",
+        "name": "Vassar Street",
+        "source": "massgis_import_v0.1_20071008165629",
+        "surface": "asphalt",
+        "turn:lanes:forward": "left;through|through;right",
+        "width": "17.1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.0905402,
+            42.3623007
+          ],
+          [
+            -71.0904105,
+            42.3623637
+          ],
+          [
+            -71.0901346,
+            42.3624979
+          ],
+          [
+            -71.0901009,
+            42.3625169
+          ],
+          [
+            -71.0900686,
+            42.3625368
+          ],
+          [
+            -71.09004,
+            42.3625564
+          ],
+          [
+            -71.0900129,
+            42.3625815
+          ],
+          [
+            -71.0899912,
+            42.3626061
+          ],
+          [
+            -71.089977,
+            42.362623
+          ]
+        ]
+      },
+      "id": "way/426625057"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/426625120",
+        "FIXME:hgv": "verify",
+        "attribution": "Office of Geographic and Environmental Information (MassGIS)",
+        "condition": "good",
+        "hgv": "yes",
+        "highway": "primary",
+        "lanes": "3",
+        "massgis:way_id": "144604",
+        "name": "Memorial Drive",
+        "oneway": "yes",
+        "ref": "MA 3",
+        "source": "massgis_import_v0.1_20071008165629",
+        "start_date": "05/08/2004",
+        "surface": "asphalt",
+        "turn:lanes": "left||",
+        "width": "30.5"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.0848437,
+            42.3596993
+          ],
+          [
+            -71.0839234,
+            42.3600046
+          ]
+        ]
+      },
+      "id": "way/426625120"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/426659490",
+        "attribution": "Office of Geographic and Environmental Information (MassGIS)",
+        "condition": "deficient",
+        "cycleway": "lane",
+        "hazmat": "designated",
+        "highway": "secondary",
+        "lanes": "3",
+        "massgis:way_id": "110569",
+        "name": "Binney Street",
+        "oneway": "yes",
+        "source": "massgis_import_v0.1_20071008165629",
+        "surface": "asphalt",
+        "turn:lanes": "left||",
+        "width": "14.9"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.0789549,
+            42.3651903
+          ],
+          [
+            -71.0782211,
+            42.3650954
+          ]
+        ]
+      },
+      "id": "way/426659490"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/426659491",
+        "attribution": "Office of Geographic and Environmental Information (MassGIS)",
+        "condition": "deficient",
+        "cycleway": "lane",
+        "hazmat": "designated",
+        "highway": "secondary",
+        "lanes": "2",
+        "massgis:way_id": "110569",
+        "name": "Binney Street",
+        "oneway": "yes",
+        "source": "massgis_import_v0.1_20071008165629",
+        "surface": "asphalt",
+        "width": "14.9"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.0798771,
+            42.3653096
+          ],
+          [
+            -71.0789549,
+            42.3651903
+          ]
+        ]
+      },
+      "id": "way/426659491"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/426659492",
+        "attribution": "Office of Geographic and Environmental Information (MassGIS)",
+        "condition": "deficient",
+        "cycleway:right": "track",
+        "hazmat": "designated",
+        "highway": "secondary",
+        "lanes": "2",
+        "massgis:way_id": "110569",
+        "name": "Binney Street",
+        "oneway": "yes",
+        "source": "massgis_import_v0.1_20071008165629",
+        "surface": "asphalt",
+        "width": "14.9"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.0781974,
+            42.3651968
+          ],
+          [
+            -71.0794129,
+            42.3653515
+          ]
+        ]
+      },
+      "id": "way/426659492"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/426659493",
+        "attribution": "Office of Geographic and Environmental Information (MassGIS)",
+        "condition": "deficient",
+        "cycleway": "lane",
+        "hazmat": "designated",
+        "highway": "secondary",
+        "lanes": "2",
+        "massgis:way_id": "110569",
+        "name": "Binney Street",
+        "oneway": "yes",
+        "source": "massgis_import_v0.1_20071008165629",
+        "surface": "asphalt",
+        "width": "14.9"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.0824513,
+            42.3656342
+          ],
+          [
+            -71.0803275,
+            42.3653664
+          ]
+        ]
+      },
+      "id": "way/426659493"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/426659494",
+        "attribution": "Office of Geographic and Environmental Information (MassGIS)",
+        "condition": "deficient",
+        "cycleway:right": "track",
+        "hazmat": "designated",
+        "highway": "secondary",
+        "lanes": "2",
+        "massgis:way_id": "110569",
+        "name": "Binney Street",
+        "oneway": "yes",
+        "source": "massgis_import_v0.1_20071008165629",
+        "surface": "asphalt",
+        "width": "14.9"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.0798549,
+            42.3654077
+          ],
+          [
+            -71.0813737,
+            42.3656048
+          ]
+        ]
+      },
+      "id": "way/426659494"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/426659497",
+        "attribution": "Office of Geographic and Environmental Information (MassGIS)",
+        "condition": "fair",
+        "hgv": "yes",
+        "highway": "primary",
+        "lanes": "5",
+        "massgis:ref": "0 N337",
+        "massgis:way_id": "147092",
+        "name": "Land Boulevard",
+        "official_name": "Edwin H. Land Boulevard",
+        "old_ref": "SR 3",
+        "oneway": "yes",
+        "source": "massgis_import_v0.1_20071008165629",
+        "surface": "asphalt",
+        "turn:lanes": "left|left|||",
+        "width": "18.9"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.0777368,
+            42.3644258
+          ],
+          [
+            -71.0772952,
+            42.3648862
+          ]
+        ]
+      },
+      "id": "way/426659497"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/426659498",
+        "attribution": "Office of Geographic and Environmental Information (MassGIS)",
+        "condition": "fair",
+        "hgv": "yes",
+        "highway": "primary",
+        "lanes": "2",
+        "massgis:way_id": "147092",
+        "name": "Land Boulevard",
+        "official_name": "Edwin H. Land Boulevard",
+        "oneway": "yes",
+        "source": "massgis_import_v0.1_20071008165629",
+        "surface": "asphalt",
+        "width": "18.9"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.0773702,
+            42.3650531
+          ],
+          [
+            -71.0774506,
+            42.364971
+          ]
+        ]
+      },
+      "id": "way/426659498"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/426671710",
+        "attribution": "Office of Geographic and Environmental Information (MassGIS)",
+        "condition": "fair",
+        "cycleway": "lane",
+        "hazmat": "designated",
+        "highway": "secondary",
+        "lanes": "2",
+        "massgis:way_id": "146255",
+        "maxspeed": "25 mph",
+        "maxspeed:type": "sign",
+        "name": "Galileo Galilei Way",
+        "oneway": "yes",
+        "source": "massgis_import_v0.1_20071008165629",
+        "surface": "asphalt",
+        "turn:lanes": "left|",
+        "width": "12.2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.0897704,
+            42.3636292
+          ],
+          [
+            -71.0898801,
+            42.3632051
+          ]
+        ]
+      },
+      "id": "way/426671710"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/426671711",
+        "attribution": "Office of Geographic and Environmental Information (MassGIS)",
+        "condition": "fair",
+        "cycleway": "lane",
+        "hazmat": "designated",
+        "highway": "secondary",
+        "lanes": "2",
+        "massgis:way_id": "146255",
+        "maxspeed": "25 mph",
+        "maxspeed:type": "sign",
+        "name": "Galileo Galilei Way",
+        "oneway": "yes",
+        "source": "massgis_import_v0.1_20071008165629",
+        "surface": "asphalt",
+        "width": "12.2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.0894626,
+            42.3648462
+          ],
+          [
+            -71.0894745,
+            42.3648023
+          ]
+        ]
+      },
+      "id": "way/426671711"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/426671712",
+        "attribution": "Office of Geographic and Environmental Information (MassGIS)",
+        "condition": "fair",
+        "cycleway": "lane",
+        "hazmat": "designated",
+        "highway": "secondary",
+        "lanes": "2",
+        "massgis:way_id": "146255",
+        "maxspeed": "25 mph",
+        "maxspeed:type": "sign",
+        "name": "Galileo Galilei Way",
+        "oneway": "yes",
+        "source": "massgis_import_v0.1_20071008165629",
+        "surface": "asphalt",
+        "width": "12.2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.0896414,
+            42.3641696
+          ],
+          [
+            -71.0896959,
+            42.3639169
+          ],
+          [
+            -71.0897704,
+            42.3636292
+          ]
+        ]
+      },
+      "id": "way/426671712"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/442968316",
+        "alt_name": "Broadway",
+        "attribution": "Office of Geographic and Environmental Information (MassGIS)",
+        "condition": "fair",
+        "cycleway": "lane",
+        "highway": "secondary",
+        "lanes": "1",
+        "massgis:ref": "0 N323",
+        "massgis:way_id": "147645",
+        "name": "Main Street",
+        "oneway": "yes",
+        "source": "massgis_import_v0.1_20071008165629",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.0821253,
+            42.3621427
+          ],
+          [
+            -71.0826648,
+            42.3621792
+          ],
+          [
+            -71.0827543,
+            42.3621814
+          ],
+          [
+            -71.0828124,
+            42.3621817
+          ],
+          [
+            -71.0828228,
+            42.3621818
+          ],
+          [
+            -71.0828652,
+            42.3621813
+          ],
+          [
+            -71.0828924,
+            42.3621809
+          ],
+          [
+            -71.0829542,
+            42.3621793
+          ],
+          [
+            -71.0830222,
+            42.3621793
+          ]
+        ]
+      },
+      "id": "way/442968316"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/442971020",
+        "attribution": "Office of Geographic and Environmental Information (MassGIS)",
+        "condition": "fair",
+        "highway": "tertiary",
+        "lanes": "2",
+        "massgis:way_id": "148710",
+        "maxspeed": "25 mph",
+        "maxspeed:type": "sign",
+        "name": "Albany Street",
+        "source": "massgis_import_v0.1_20071008165629",
+        "surface": "asphalt",
+        "width": "14.6"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.0938602,
+            42.3619094
+          ],
+          [
+            -71.0938264,
+            42.3618973
+          ],
+          [
+            -71.0937838,
+            42.3618834
+          ],
+          [
+            -71.0937558,
+            42.3618803
+          ],
+          [
+            -71.0937328,
+            42.3618803
+          ],
+          [
+            -71.0937111,
+            42.3618823
+          ],
+          [
+            -71.0936922,
+            42.3618854
+          ],
+          [
+            -71.093672,
+            42.3618927
+          ],
+          [
+            -71.0933892,
+            42.3620306
+          ],
+          [
+            -71.0920442,
+            42.3626947
+          ],
+          [
+            -71.0920292,
+            42.3627032
+          ],
+          [
+            -71.0920197,
+            42.3627159
+          ],
+          [
+            -71.0920141,
+            42.3627319
+          ],
+          [
+            -71.0920012,
+            42.3628555
+          ]
+        ]
+      },
+      "id": "way/442971020"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/459656035",
+        "attribution": "Office of Geographic and Environmental Information (MassGIS)",
+        "condition": "fair",
+        "cycleway": "lane",
+        "hazmat": "designated",
+        "highway": "secondary",
+        "lanes": "2",
+        "massgis:way_id": "146255",
+        "name": "Galileo Galilei Way",
+        "oneway": "yes",
+        "source": "massgis_import_v0.1_20071008165629",
+        "surface": "asphalt",
+        "turn:lanes": "through|",
+        "width": "12.2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.0882996,
+            42.366302
+          ],
+          [
+            -71.0882162,
+            42.3663167
+          ],
+          [
+            -71.0881211,
+            42.3663267
+          ],
+          [
+            -71.0879465,
+            42.366335
+          ]
+        ]
+      },
+      "id": "way/459656035"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/519835690",
+        "attribution": "Office of Geographic and Environmental Information (MassGIS)",
+        "condition": "fair",
+        "hgv": "yes",
+        "highway": "primary",
+        "lanes": "3",
+        "massgis:ref": "0 N337",
+        "massgis:way_id": "147092",
+        "name": "Land Boulevard",
+        "official_name": "Edwin H. Land Boulevard",
+        "old_ref": "SR 3",
+        "oneway": "yes",
+        "source": "massgis_import_v0.1_20071008165629",
+        "surface": "asphalt",
+        "width": "18.9"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.0772952,
+            42.3648862
+          ],
+          [
+            -71.0772119,
+            42.364973
+          ]
+        ]
+      },
+      "id": "way/519835690"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/533596803",
+        "attribution": "Office of Geographic and Environmental Information (MassGIS)",
+        "condition": "fair",
+        "cycleway": "lane",
+        "highway": "secondary",
+        "lanes": "1",
+        "massgis:ref": "0 N324",
+        "massgis:way_id": "206060",
+        "maxspeed": "25 mph",
+        "name": "Broadway",
+        "oneway": "yes",
+        "sidewalk": "right",
+        "source": "massgis_import_v0.1_20071008165629",
+        "surface": "asphalt",
+        "width": "24.4"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.0851231,
+            42.3630707
+          ],
+          [
+            -71.085159,
+            42.363086
+          ],
+          [
+            -71.0861137,
+            42.3634923
+          ],
+          [
+            -71.0862468,
+            42.3635475
+          ],
+          [
+            -71.086527,
+            42.3636639
+          ],
+          [
+            -71.0866469,
+            42.3637153
+          ]
+        ]
+      },
+      "id": "way/533596803"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/533596884",
+        "attribution": "Office of Geographic and Environmental Information (MassGIS)",
+        "condition": "deficient",
+        "cycleway": "lane",
+        "hazmat": "designated",
+        "highway": "secondary",
+        "lanes": "2",
+        "massgis:way_id": "110569",
+        "name": "Binney Street",
+        "oneway": "yes",
+        "source": "massgis_import_v0.1_20071008165629",
+        "surface": "asphalt",
+        "width": "14.9"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.0860313,
+            42.3660971
+          ],
+          [
+            -71.0834053,
+            42.3657576
+          ]
+        ]
+      },
+      "id": "way/533596884"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/533596885",
+        "attribution": "Office of Geographic and Environmental Information (MassGIS)",
+        "condition": "deficient",
+        "cycleway": "lane",
+        "hazmat": "designated",
+        "highway": "secondary",
+        "lanes": "2",
+        "massgis:way_id": "110569",
+        "maxspeed": "25 mph",
+        "name": "Binney Street",
+        "oneway": "yes",
+        "source": "massgis_import_v0.1_20071008165629",
+        "surface": "asphalt",
+        "width": "14.9"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.0866621,
+            42.3661787
+          ],
+          [
+            -71.0861571,
+            42.3661134
+          ],
+          [
+            -71.0860313,
+            42.3660971
+          ]
+        ]
+      },
+      "id": "way/533596885"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/533596887",
+        "attribution": "Office of Geographic and Environmental Information (MassGIS)",
+        "condition": "deficient",
+        "cycleway:right": "lane",
+        "hazmat": "designated",
+        "highway": "secondary",
+        "lanes": "2",
+        "massgis:way_id": "110569",
+        "name": "Binney Street",
+        "oneway": "yes",
+        "source": "massgis_import_v0.1_20071008165629",
+        "surface": "asphalt",
+        "width": "14.9"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.0865482,
+            42.3662743
+          ],
+          [
+            -71.0866225,
+            42.3662856
+          ]
+        ]
+      },
+      "id": "way/533596887"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/533596888",
+        "attribution": "Office of Geographic and Environmental Information (MassGIS)",
+        "condition": "deficient",
+        "cycleway:right": "lane",
+        "hazmat": "designated",
+        "highway": "secondary",
+        "lanes": "2",
+        "massgis:way_id": "110569",
+        "maxspeed": "25 mph",
+        "name": "Binney Street",
+        "oneway": "yes",
+        "source": "massgis_import_v0.1_20071008165629",
+        "surface": "asphalt",
+        "width": "14.9"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.0860501,
+            42.3662063
+          ],
+          [
+            -71.0865482,
+            42.3662743
+          ]
+        ]
+      },
+      "id": "way/533596888"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/560823001",
+        "attribution": "Office of Geographic and Environmental Information (MassGIS)",
+        "condition": "deficient",
+        "highway": "residential",
+        "lanes": "2",
+        "massgis:way_id": "110569",
+        "maxspeed": "25 mph",
+        "name": "Binney Street",
+        "source": "massgis_import_v0.1_20071008165629",
+        "surface": "asphalt",
+        "width": "14.9"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.0892187,
+            42.3670945
+          ],
+          [
+            -71.0891713,
+            42.3670716
+          ],
+          [
+            -71.0890884,
+            42.3670314
+          ],
+          [
+            -71.0885725,
+            42.3667722
+          ],
+          [
+            -71.0882196,
+            42.3665976
+          ]
+        ]
+      },
+      "id": "way/560823001"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/570151745",
+        "attribution": "Office of Geographic and Environmental Information (MassGIS)",
+        "condition": "deficient",
+        "cycleway:right": "lane",
+        "hazmat": "designated",
+        "highway": "secondary",
+        "lanes": "2",
+        "massgis:way_id": "110569",
+        "name": "Binney Street",
+        "oneway": "yes",
+        "source": "massgis_import_v0.1_20071008165629",
+        "surface": "asphalt",
+        "width": "14.9"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.0833991,
+            42.3658659
+          ],
+          [
+            -71.0844274,
+            42.3659976
+          ],
+          [
+            -71.0850436,
+            42.3660769
+          ],
+          [
+            -71.0859627,
+            42.3661951
+          ],
+          [
+            -71.0860501,
+            42.3662063
+          ]
+        ]
+      },
+      "id": "way/570151745"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/570151746",
+        "attribution": "Office of Geographic and Environmental Information (MassGIS)",
+        "condition": "fair",
+        "cycleway": "lane",
+        "highway": "tertiary",
+        "lanes": "2",
+        "massgis:way_id": "182982",
+        "maxspeed": "25 mph",
+        "name": "Third Street",
+        "source": "massgis_import_v0.1_20071008165629",
+        "surface": "asphalt",
+        "width": "18.6"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.0823709,
+            42.3657342
+          ],
+          [
+            -71.0819996,
+            42.3663837
+          ]
+        ]
+      },
+      "id": "way/570151746"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/591217336",
+        "bicycle": "yes",
+        "cycleway:both": "lane",
+        "highway": "tertiary",
+        "lanes": "2",
+        "name": "Ames Street",
+        "oneway": "no",
+        "parking:condition:right": "ticket",
+        "parking:lane:right": "parallel",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.0881669,
+            42.3625586
+          ],
+          [
+            -71.0881584,
+            42.3626232
+          ]
+        ]
+      },
+      "id": "way/591217336"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/591217337",
+        "attribution": "Office of Geographic and Environmental Information (MassGIS)",
+        "condition": "fair",
+        "cycleway:right": "lane",
+        "highway": "secondary",
+        "lanes": "1",
+        "massgis:ref": "0 N323",
+        "massgis:way_id": "147645",
+        "name": "Main Street",
+        "oneway": "yes",
+        "source": "massgis_import_v0.1_20071008165629",
+        "surface": "asphalt",
+        "width": "21.3"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.0901436,
+            42.3627256
+          ],
+          [
+            -71.0899824,
+            42.3626979
+          ],
+          [
+            -71.0898872,
+            42.362693
+          ],
+          [
+            -71.089782,
+            42.3626871
+          ],
+          [
+            -71.089691,
+            42.3626809
+          ],
+          [
+            -71.0883553,
+            42.3625756
+          ],
+          [
+            -71.0881669,
+            42.3625586
+          ]
+        ]
+      },
+      "id": "way/591217337"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/592158094",
+        "attribution": "Office of Geographic and Environmental Information (MassGIS)",
+        "bicycle": "yes",
+        "condition": "fair",
+        "cycleway:left": "lane",
+        "cycleway:right": "opposite",
+        "highway": "secondary",
+        "lanes": "1",
+        "massgis:ref": "0 N323",
+        "massgis:way_id": "147645",
+        "name": "Main Street",
+        "oneway": "yes",
+        "ref": "MA 3",
+        "source": "massgis_import_v0.1_20071008165629"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.0792145,
+            42.3618792
+          ],
+          [
+            -71.0793745,
+            42.3618909
+          ]
+        ]
+      },
+      "id": "way/592158094"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/592158095",
+        "attribution": "Office of Geographic and Environmental Information (MassGIS)",
+        "condition": "fair",
+        "construction": "trunk",
+        "cycleway": "lane",
+        "foot": "yes",
+        "highway": "secondary",
+        "lanes": "1",
+        "massgis:ref": "0 N323",
+        "massgis:way_id": "147645",
+        "motor_vehicle": "yes",
+        "name": "Main Street",
+        "oneway": "yes",
+        "ref": "MA 3",
+        "source": "massgis_import_v0.1_20071008165629"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.0797523,
+            42.3617617
+          ],
+          [
+            -71.0792379,
+            42.3617305
+          ]
+        ]
+      },
+      "id": "way/592158095"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/627388498",
+        "attribution": "Office of Geographic and Environmental Information (MassGIS)",
+        "condition": "good",
+        "highway": "tertiary",
+        "lanes": "1",
+        "massgis:way_id": "133729",
+        "name": "Charles Street",
+        "oneway": "yes",
+        "source": "massgis_import_v0.1_20071008165629",
+        "surface": "asphalt",
+        "width": "15.2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.0793781,
+            42.3674403
+          ],
+          [
+            -71.0790798,
+            42.3674015
+          ],
+          [
+            -71.0777224,
+            42.3672248
+          ]
+        ]
+      },
+      "id": "way/627388498"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/627388499",
+        "alt_name": "2nd Street",
+        "attribution": "Office of Geographic and Environmental Information (MassGIS)",
+        "condition": "fair",
+        "cycleway:both": "no",
+        "highway": "residential",
+        "lanes": "2",
+        "lit": "yes",
+        "massgis:way_id": "198296",
+        "maxspeed": "25 mph",
+        "maxspeed:type": "sign",
+        "name": "Second Street",
+        "source": "massgis_import_v0.1_20071008165629",
+        "surface": "asphalt",
+        "width": "16.8; 15.2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.0793781,
+            42.3674403
+          ],
+          [
+            -71.079332,
+            42.367733
+          ],
+          [
+            -71.07924,
+            42.368116
+          ],
+          [
+            -71.0790855,
+            42.3687946
+          ],
+          [
+            -71.078913,
+            42.369482
+          ],
+          [
+            -71.078881,
+            42.36962
+          ],
+          [
+            -71.0787532,
+            42.3701584
+          ],
+          [
+            -71.0785958,
+            42.3708552
+          ]
+        ]
+      },
+      "id": "way/627388499"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/627467991",
+        "attribution": "Office of Geographic and Environmental Information (MassGIS)",
+        "bicycle": "designated",
+        "condition": "fair",
+        "cycleway": "lane",
+        "highway": "residential",
+        "lanes": "2",
+        "massgis:way_id": "136164",
+        "maxspeed": "25 mph",
+        "name": "Linskey Way",
+        "source": "massgis_import_v0.1_20071008165629",
+        "width": "9.1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.081758,
+            42.3649656
+          ],
+          [
+            -71.081124,
+            42.3648858
+          ],
+          [
+            -71.0800048,
+            42.364745
+          ],
+          [
+            -71.0783574,
+            42.3645378
+          ]
+        ]
+      },
+      "id": "way/627467991"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/627467992",
+        "attribution": "Office of Geographic and Environmental Information (MassGIS)",
+        "bicycle": "designated",
+        "condition": "fair",
+        "cycleway": "lane",
+        "highway": "residential",
+        "lanes": "2",
+        "massgis:way_id": "136164",
+        "maxspeed": "25 mph",
+        "name": "Linskey Way",
+        "source": "massgis_import_v0.1_20071008165629",
+        "turn:lanes:backward": "right",
+        "width": "9.1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -71.081971,
+            42.3649924
+          ],
+          [
+            -71.081758,
+            42.3649656
+          ]
+        ]
+      },
+      "id": "way/627467992"
+    }
+  ]
+}
